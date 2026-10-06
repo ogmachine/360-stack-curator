@@ -1,0 +1,56 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Stack Repo",
+  "type": "object",
+  "required": [
+    "name",
+    "owner",
+    "url",
+    "resourceType",
+    "categories",
+    "capabilities",
+    "agentCompatibility",
+    "deploymentTier"
+  ],
+  "properties": {
+    "name": { "type": "string" },
+    "owner": { "type": "string" },
+    "url": { "type": "string", "format": "uri" },
+    "description": { "type": ["string", "null"] },
+    "language": { "type": ["string", "null"] },
+    "stars": { "type": "integer" },
+    "resourceType": { "type": "string" },
+    "categories": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "capabilities": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "components": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "connectors": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "integrations": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "agentCompatibility": {
+      "type": "object",
+      "additionalProperties": { "type": "number" }
+    },
+    "docsQuality": { "type": ["number", "null"] },
+    "maintenanceScore": { "type": ["number", "null"] },
+    "bestPracticeFit": { "type": ["number", "null"] },
+    "deploymentTier": {
+      "type": "string",
+      "enum": ["universal", "agent-specific", "use-case-specific", "fallback"]
+    }
+  },
+  "additionalProperties": true
+}

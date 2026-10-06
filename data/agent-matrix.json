@@ -1,0 +1,141 @@
+{
+  "agents": [
+    {
+      "name": "claude-code",
+      "type": "coding-agent",
+      "supports": [
+        "agent-orchestration",
+        "code-generation",
+        "repo-analysis",
+        "context-management",
+        "tool-invocation",
+        "task-planning"
+      ],
+      "connectors": ["api", "hooks", "mcp", "cli"],
+      "bestFor": ["coding", "repo work", "iterative refinement", "deep task execution"]
+    },
+    {
+      "name": "claude-chat",
+      "type": "chat-agent",
+      "supports": [
+        "reasoning",
+        "research",
+        "knowledge-work",
+        "writing",
+        "multi-modal"
+      ],
+      "connectors": ["api", "web", "docs"],
+      "bestFor": ["analysis", "research", "planning", "guided work"]
+    },
+    {
+      "name": "chatgpt",
+      "type": "general-agent",
+      "supports": [
+        "reasoning",
+        "coding",
+        "knowledge-work",
+        "workflow-support",
+        "plugin-integration"
+      ],
+      "connectors": ["api", "plugins", "web"],
+      "bestFor": ["general reasoning", "workflow support", "broad tasks"]
+    },
+    {
+      "name": "hermes",
+      "type": "open-model-agent",
+      "supports": [
+        "local-ai",
+        "privacy-first",
+        "custom-models",
+        "task-planning",
+        "tool-invocation"
+      ],
+      "connectors": ["api", "cli", "local-runner"],
+      "bestFor": ["local-first", "privacy-oriented", "custom stack builds"]
+    },
+    {
+      "name": "gemini",
+      "type": "multimodal-agent",
+      "supports": [
+        "document-ingestion",
+        "reasoning",
+        "knowledge-work",
+        "multi-modal",
+        "research"
+      ],
+      "connectors": ["api", "sdk", "browser"],
+      "bestFor": ["multimodal workflows", "research", "document tasks"]
+    },
+    {
+      "name": "local-agent",
+      "type": "local-runtime",
+      "supports": [
+        "local-ai",
+        "privacy-first",
+        "self-hosting",
+        "custom-tools",
+        "file-management"
+      ],
+      "connectors": ["cli", "mcp", "local-api"],
+      "bestFor": ["privacy", "offline", "self-hosted infrastructure"]
+    }
+  ],
+  "capabilityScores": {
+    "agent-orchestration": {
+      "claude-code": 95,
+      "claude-chat": 75,
+      "chatgpt": 70,
+      "hermes": 82,
+      "gemini": 80,
+      "local-agent": 88
+    },
+    "code-generation": {
+      "claude-code": 95,
+      "claude-chat": 75,
+      "chatgpt": 85,
+      "hermes": 72,
+      "gemini": 70,
+      "local-agent": 70
+    },
+    "rag": {
+      "claude-code": 80,
+      "claude-chat": 78,
+      "chatgpt": 88,
+      "hermes": 76,
+      "gemini": 85,
+      "local-agent": 82
+    },
+    "browser-automation": {
+      "claude-code": 60,
+      "claude-chat": 50,
+      "chatgpt": 70,
+      "hermes": 55,
+      "gemini": 60,
+      "local-agent": 62
+    },
+    "image-generation": {
+      "claude-code": 20,
+      "claude-chat": 30,
+      "chatgpt": 70,
+      "hermes": 35,
+      "gemini": 65,
+      "local-agent": 40
+    },
+    "voice-generation": {
+      "claude-code": 25,
+      "claude-chat": 20,
+      "chatgpt": 45,
+      "hermes": 50,
+      "gemini": 60,
+      "local-agent": 55
+    },
+    "local-ai": {
+      "claude-code": 60,
+      "claude-chat": 35,
+      "chatgpt": 30,
+      "hermes": 95,
+      "gemini": 25,
+      "local-agent": 95
+    }
+  }
+}

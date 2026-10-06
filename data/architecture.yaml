@@ -1,0 +1,97 @@
+universal:
+  - repo: litellm
+    capability: model-routing
+    reason: unified access layer across providers and fallback paths
+    load: always
+    connector: api
+
+  - repo: planning-with-files
+    capability: context-management
+    reason: persistent plans, long-running tasks, and context stability
+    load: always
+    connector: cli
+
+  - repo: langflow
+    capability: agent-orchestration
+    reason: workflow orchestration and graph-based task management
+    load: always
+    connector: api
+
+  - repo: quivr
+    capability: rag
+    reason: knowledge grounding and retrieval backbone
+    load: always
+    connector: api
+
+agent_specific:
+  claude-code:
+    - repo: vibe-skills
+      capability: skill-routing
+      reason: strong fit for routing and nested skills
+      load: on-demand
+      connector: cli
+
+    - repo: context-mode
+      capability: context-management
+      reason: efficient context use and context-aware routing
+      load: on-demand
+      connector: cli
+
+  chatgpt:
+    - repo: openai-plugins
+      capability: plugin-system
+      reason: good integration into the broader plugin ecosystem
+      load: on-demand
+      connector: api
+
+  hermes:
+    - repo: ollama
+      capability: local-ai
+      reason: local model hosting and self-hosted runtime support
+      load: on-demand
+      connector: local-api
+
+  gemini:
+    - repo: gemini-skills
+      capability: multimodal-research
+      reason: toolchain fit for Gemini-oriented workflows
+      load: on-demand
+      connector: api
+
+use_case_specific:
+  image-generation:
+    - repo: InvokeAI
+      capability: image-generation
+      load: when-needed
+      connector: api
+
+  browser-automation:
+    - repo: browser-use
+      capability: browser-automation
+      load: when-needed
+      connector: api
+
+  notes-and-knowledge:
+    - repo: foam
+      capability: notes-graph
+      load: when-needed
+      connector: local
+
+  voice:
+    - repo: VoiceStudio
+      capability: voice-generation
+      load: when-needed
+      connector: api
+
+fallback:
+  model-routing:
+    primary: litellm
+    fallback:
+      - openrouter-style wrapper
+      - local model gateway
+
+  rag:
+    primary: quivr
+    fallback:
+      - langchain
+      - openmetadata
