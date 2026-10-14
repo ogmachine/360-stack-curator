@@ -462,3 +462,200 @@ Plugins that live in one shared repo (Anthropic marketplaces, AG2, TechWolf) sho
 | 252 | zizi-skills | 0 | [ziazon/zizi-skills](https://github.com/ziazon/zizi-skills) | 1 |
 | 253 | storefront-theme-kit | n/a | [mattiadragone/storefront-theme-kit](https://github.com/mattiadragone/storefront-theme-kit) | 1 |
 | 254 | your-rules-file | n/a | not found |  |
+
+## Higher-starred alternatives by category
+
+Alternative star counts were checked through ungh.cc on 2026-10-14. "Beats" compares each alternative with the most-starred installed plugin in the category that has its own repo. Plugins that share a repo with other installed plugins are listed but left out of that comparison, because their stars belong to the whole repo.
+
+### Memory / session continuity
+
+Installed: remember 199, cowork-mem 9 (shared repo), adaptive-agent 5, agent-memory 4, wherewasi 2, active-memory 0, create-state 0, baton 0
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 100,388 | yes | 2026-10-13 | Records sessions, compresses them with AI, re-injects context in later sessions | Probably upstream of installed cowork-mem (same skill names: mem-search, make-plan, smart-explore) |
+| [mem0ai/mem0](https://github.com/mem0ai/mem0) | 67,135 | yes | 2026-10-12 | Memory layer for AI agents and apps, self-hosted or hosted |  |
+| [getzep/graphiti](https://github.com/getzep/graphiti) | 31,730 | yes | 2026-10-14 | Builds real-time temporal knowledge graphs as agent memory |  |
+| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 31,205 | yes | 2026-10-14 | Memory and context engine plus API, can run fully local | basicmachines-co/basic-memory (4,165, pushed 2026-10-12) is the Markdown-notes option |
+
+### Status line / usage meter
+
+Installed: statusbar 11, crystools-statusline 6, claude-pulse 2, claudemeter 0, rich-statusline 0, cc-token-statusline 0, governor 0
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 28,506 | yes | 2026-10-13 | Plugin HUD: context usage, active tools, running agents, todo progress |  |
+| [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) | 13,283 | yes | 2026-10-13 | Customizable status line with powerline themes and usage widgets |  |
+| [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar) | 1,535 | yes | 2026-10-13 | macOS menu bar app tracking Claude, Codex and Gemini usage quotas | Menu bar meter, not a status line |
+| [Owloops/claude-powerline](https://github.com/Owloops/claude-powerline) | 1,174 | yes | 2026-10-11 | Vim-style powerline status line for Claude Code | Haleclipse/CCometixLine (3,472) excluded: last push 2026-03-14 |
+
+### Token and cost tracking
+
+Installed: ai-adoption 134 (shared repo), token-inspector 4, claude-performance 3, token-usage 2, token-shield 0
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 83,270 | yes | 2026-10-13 | CLI proxy that cuts tokens 60-90% on common dev command output | Cuts tokens rather than tracking them; same job as token-shield |
+| [ccusage/ccusage](https://github.com/ccusage/ccusage) | 18,993 | yes | 2026-10-13 | Reports Claude Code token use and cost from local logs (npx ccusage) | Moved from ryoppippi/ccusage |
+| [getagentseal/codeburn](https://github.com/getagentseal/codeburn) | 11,439 | yes | 2026-10-13 | Local token and cost tracker across 37 coding tools by model and project |  |
+| [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) | 8,742 | yes | 2026-07-05 | Real-time terminal usage monitor with burn-rate predictions |  |
+
+### Short replies / output style
+
+Installed: terse 51, 6x6 7, promptup 1, parrot 0, caveman 0 (shared repo)
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 111,399 | yes | 2026-10-13 | Caveman-speak skill and proxy, claims about 65% fewer tokens | Original caveman project. The installed caveman plugin comes from petrovicistefan/claude-code-plugins (0 stars) |
+| [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) | 6,087 | yes | 2026-06-16 | One CLAUDE.md that keeps replies terse and cuts output verbosity | Top non-installed option; hesreallyhim output-styles list (86 stars, pushed 2025-11-21) dropped |
+
+### Dev workflow skill libraries
+
+Installed: superpowers 298,822, mattpocock-skills 290,195, feature-dev 150,711 (shared repo), fable-baton 27, agent-protocols 1, wur 1, ship 1, zizi-skills 0, pm 0, agent-handoff 0
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 278,794 | no | 2026-10-12 | Skills, instincts, memory and security harness for Claude Code and others | Renamed from everything-claude-code. Installed superpowers = obra/superpowers (298,822) |
+| [anthropics/skills](https://github.com/anthropics/skills) | 180,997 | no | 2026-10-09 | Anthropic public Agent Skills repo: document, design and dev skills |  |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | 136,344 | no | 2026-10-14 | 23 opinionated role skills: CEO, designer, eng manager, release, QA |  |
+| [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | 64,300 | no | 2026-05-31 | Meta-prompting, context engineering and spec-driven dev system | addyosmani/agent-skills (106,368) ships the same skills as installed agent-protocols |
+
+### Spec-driven development and planning
+
+Installed: wave-planner 1, wur 1, agile-product 0 (shared repo)
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [github/spec-kit](https://github.com/github/spec-kit) | 141,192 | yes | 2026-10-13 | GitHub spec-driven development toolkit: specify, plan, tasks, implement |  |
+| [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 71,883 | yes | 2026-10-13 | Spec-driven development for AI coding assistants |  |
+| [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) | 54,114 | yes | 2026-10-14 | Agile AI-driven development with analyst, PM and architect agents | Closest match to installed agile-product |
+| [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) | 28,222 | yes | 2026-04-28 | AI task manager that turns a PRD into dependency-ordered tasks | Last push 2026-04-28, 14 days inside the window |
+
+### Multi-agent councils / debate
+
+Installed: thinking-partner 210, plan-review 13, decision-council 0, 16-minds 0, agentic-council 0, council 0
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 159,962 | yes | 2026-10-13 | Roster of specialist persona agents usable as council members | Persona library; no built-in debate round |
+| [karpathy/llm-council](https://github.com/karpathy/llm-council) | 25,449 | yes | 2025-11-22 | Models answer, rank each other anonymously, a chairman synthesizes | Stale (last push 2025-11-22); kept as category leader |
+| [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | 9,409 | yes | 2026-10-14 | Visual annotation and review of agent plans and code diffs | Same job as plan-review. BeehiveInnovations/pal-mcp-server (11,781) excluded: last push 2025-12-15 |
+
+### Autonomous loops
+
+Installed: ralph-loop 37,901 (shared repo), autoresearch 22, autoresearch-ai-plugin 13, goodnight-alchemist 1
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | 97,883 | yes | 2026-03-26 | Agents run nanochat training experiments autonomously on one GPU | Stale (last push 2026-03-26); kept as category leader |
+| [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) | 9,679 | yes | 2026-10-10 | Ralph autonomous dev loop for Claude Code with exit detection | snarktank/ralph (21,950) excluded: last push 2026-02-02 |
+| [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) | 6,575 | yes | 2026-08-12 | Autoresearch loop for Claude Code: modify, verify, keep or discard |  |
+| [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) | 3,174 | yes | 2026-10-13 | Ralph Wiggum loop orchestrator for autonomous agents |  |
+
+### Code and security review
+
+Installed: code-review 150,711 (shared repo), pr-review-toolkit 150,711 (shared repo), security-guidance 37,901 (shared repo), agentkeeper 2, llm-secure-patterns 1
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | 13,381 | yes | 2026-10-11 | Open-source AI PR reviewer with review, describe and improve commands | Moved from qodo-ai/pr-agent |
+| [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) | 9,502 | yes | 2026-10-14 | GitHub Action that runs Claude Code on PRs and issues, incl. review |  |
+| [trailofbits/skills](https://github.com/trailofbits/skills) | 7,521 | yes | 2026-10-13 | Trail of Bits skills for security research and audit workflows |  |
+| [kodustech/kodus-ai](https://github.com/kodustech/kodus-ai) | 1,475 | yes | 2026-10-14 | Self-hosted AI code review, bring your own LLM | anthropics/claude-code-security-review (6,373) excluded: last push 2026-02-11 |
+
+### Frontend design / UI
+
+Installed: frontend-design 150,711 (shared repo), design 29,587 (shared repo), 21st 6,002, superdesign 676, inhabited-design 5, design-drift 1, ui-consistency 0, vellum 0
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 135,624 | yes | 2026-10-12 | Design-intelligence skill for professional UI/UX across platforms |  |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 120,765 | yes | 2026-10-12 | DESIGN.md files from brand design systems for agents to match |  |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 95,150 | yes | 2026-10-12 | Skill that steers agents away from generic UI output |  |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 80,923 | yes | 2026-10-13 | Design language and commands that improve agent design output | 21st-dev/magic-mcp (6,002) is the MCP behind installed 21st |
+
+### Browser automation and web scraping
+
+Installed: browser-use 117,896, playwright 38,117, tavily 488, brightdata-plugin 265, firecrawl 123, tinyfish 20
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 85,492 | no | 2026-10-14 | Open-source crawler that turns websites into LLM-ready Markdown | Installed browser-use repo has more stars (117,896). Installed firecrawl plugin comes from firecrawl/skills (123); the firecrawl engine repo has 191,323 |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 53,447 | no | 2026-10-13 | Chrome DevTools MCP for agents: debug, trace and inspect live pages |  |
+| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 43,940 | no | 2026-10-14 | Browser automation CLI for AI agents | Installed playwright = microsoft/playwright-mcp (38,117) |
+
+### Notes / Obsidian
+
+Installed: obsidian 49,510, obsidian-notes 0, obsidian-sync 0, alexandria 0
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | 37,679 | no | 2026-08-02 | Self-hostable AI second brain with an Obsidian plugin | Installed obsidian = kepano/obsidian-skills (49,510) |
+| [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 15,494 | no | 2026-09-10 | Claude Code plus Obsidian second brain on the LLM Wiki pattern |  |
+| [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) | 4,476 | no | 2026-08-31 | MCP server for Obsidian via the Local REST API plugin |  |
+| [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) | 3,023 | no | 2026-10-11 | Obsidian plugin exposing a REST API and MCP server for the vault |  |
+
+### CLAUDE.md and config management
+
+Installed: claude-md-management 37,901 (shared repo), please-optimize-my-claude 16, claude-md-composer 9 (shared repo), task-observer 0 (shared repo), meta-dev 0
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 219,584 | yes | 2026-04-20 | One CLAUDE.md of Karpathy-derived rules against LLM coding pitfalls | Moved from forrestchang. Last push 2026-04-20, 6 days inside the window |
+| [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | 24,907 | yes | 2026-09-10 | AGENTS.md open format for guiding coding agents | Moved from openai/agents.md |
+| [intellectronica/ruler](https://github.com/intellectronica/ruler) | 2,945 | yes | 2026-09-30 | Pushes one rules source into CLAUDE.md, AGENTS.md and other agent configs |  |
+| [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) | 2,544 | yes | 2026-10-14 | Edits Claude Code system prompts, toolsets and themes | dyoshikawa/rulesync (1,514) is the next rules-sync CLI |
+
+### Hooks and safety guards
+
+Installed: hookify 150,711 (shared repo), agentkeeper 2
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime) | 5,527 | yes | 2026-10-13 | OS-level filesystem and network sandbox for agent processes | Moved from anthropic-experimental/sandbox-runtime |
+| [dagger/container-use](https://github.com/dagger/container-use) | 4,069 | yes | 2026-09-21 | Isolated container dev environments per coding agent |  |
+| [nizos/tdd-guard](https://github.com/nizos/tdd-guard) | 2,360 | yes | 2026-10-12 | Hook that blocks Claude Code edits that skip failing tests |  |
+| [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) | 1,620 | yes | 2026-10-14 | Pre-execution guard that blocks destructive git and file commands | Moved from claude-code-safety-net; check overlap with installed the-safety-net. disler/claude-code-hooks-mastery (3,940) excluded: last push 2026-03-04 |
+
+### Delegating to other models
+
+Installed: codex 34,189, opencode 1, opencode-subagent-mcp 0
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 213,137 | yes | 2026-10-13 | Open-source terminal coding agent with many model providers | CLI behind the installed opencode plugins, which come from TheRealDinghyDog/opencode-plugin-cc (1) and sebstaq/opencode-subagent-mcp (0) |
+| [openai/codex](https://github.com/openai/codex) | 129,091 | yes | 2026-10-14 | OpenAI terminal coding agent | CLI behind the installed codex plugin (openai/codex-plugin-cc, 34,189) |
+| [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 107,337 | yes | 2026-10-14 | Google open-source Gemini agent for the terminal | Not installed. pal-mcp-server (11,781) excluded: last push 2025-12-15 |
+
+### Notifications
+
+Installed: notify 0, claude-notify 0
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) | 34,805 | yes | 2026-10-13 | Push notifications to phone or desktop over HTTP PUT/POST | Generic service; call it from a Stop or Notification hook |
+| [slopus/happy](https://github.com/slopus/happy) | 24,133 | yes | 2026-10-14 | Mobile and desktop app to run Claude, Codex and Grok sessions remotely | Remote client with alerts; broader than notify |
+| [777genius/agent-notifications](https://github.com/777genius/agent-notifications) | 816 | yes | 2026-10-14 | Desktop alerts, sounds, click-to-focus and webhooks for coding agents | Moved from claude-notifications-go |
+| [mylee04/code-notify](https://github.com/mylee04/code-notify) | 288 | yes | 2026-09-04 | Desktop notifications for Claude Code, Codex and Gemini CLI |  |
+
+### Terminal and desktop control
+
+Installed: desktop-commander 10,027
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 39,263 | yes | 2026-10-09 | Multimodal GUI agent stack for desktop and browser control | Installed desktop-commander = wonderwhy-er/DesktopCommanderMCP (10,027) |
+| [trycua/cua](https://github.com/trycua/cua) | 29,621 | yes | 2026-10-13 | Computer-use drivers and sandboxes for macOS, Windows and Linux |  |
+| [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) | 8,928 | no | 2026-10-14 | MCP server for computer use on Windows |  |
+
+### Plugin and skill discovery
+
+Installed: skill-discovery 14, plugin-pilot 0, sth 0
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 77,001 | yes | 2026-09-18 | Curated list of Claude skills, resources and tools |  |
+| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 55,643 | yes | 2026-10-14 | Curated Claude Code skills, agents, hooks, status lines and plugins |  |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 37,901 | yes | 2026-10-14 | Anthropic-managed directory of Claude Code plugins |  |
+| [vercel-labs/skills](https://github.com/vercel-labs/skills) | 34,738 | yes | 2026-10-09 | npx skills CLI to find, install and manage agent skills | VoltAgent/awesome-agent-skills (35,631) is a similar list |
+
