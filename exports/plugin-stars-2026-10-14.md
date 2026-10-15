@@ -1,0 +1,661 @@
+# Installed plugins ranked by GitHub stars
+
+Snapshot 2026-10-14. 254 plugins map to 195 source repos. Stars come from ungh.cc and api.github.com.
+
+Plugins that live in one shared repo (Anthropic marketplaces, AG2, TechWolf) show that repo's stars, so the count measures the repo and says nothing about the single plugin.
+
+## Ranked by source repo
+
+| # | Stars | Repo | Last push | Installed plugins |
+|---:|---:|---|---|---|
+| 1 | 298,822 | [obra/superpowers](https://github.com/obra/superpowers) | 2026-10-10 | superpowers |
+| 2 | 290,195 | [mattpocock/skills](https://github.com/mattpocock/skills) | 2026-10-13 | mattpocock-skills |
+| 3 | 150,711 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 2026-10-14 | code-review, commit-commands, feature-dev, frontend-design, hookify, pr-review-toolkit |
+| 4 | 117,896 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 2026-10-09 | browser-use |
+| 5 | 62,991 | [upstash/context7](https://github.com/upstash/context7) | 2026-10-13 | context7 |
+| 6 | 49,510 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 2026-09-15 | obsidian |
+| 7 | 39,767 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 2026-09-21 | earnings-reviewer, financial-analysis, fund-admin, market-researcher, meeting-prep-agent, pitch-agent +2 more |
+| 8 | 38,117 | [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) | 2026-10-08 | playwright |
+| 9 | 37,901 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 2026-10-14 | agent-sdk-dev, claude-code-setup, claude-md-management, code-simplifier, imessage, linear +9 more |
+| 10 | 34,189 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | 2026-07-08 | codex |
+| 11 | 33,576 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | 2026-10-12 | github |
+| 12 | 29,587 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 2026-10-14 | brand-voice, cowork-plugin-management, data, design, engineering, enterprise-search +9 more |
+| 13 | 10,027 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 2026-10-13 | desktop-commander |
+| 14 | 9,663 | [anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal) | 2026-09-29 | commercial-legal, employment-legal, ip-legal, privacy-legal, product-legal |
+| 15 | 6,283 | [eigenwise/atomic-agents](https://github.com/eigenwise/atomic-agents) | 2026-10-11 | atomic-agents |
+| 16 | 6,002 | [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) | 2026-09-09 | 21st |
+| 17 | 2,953 | [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) | 2026-09-25 | mcp-apps |
+| 18 | 2,470 | [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) | 2026-10-12 | modern-web-guidance |
+| 19 | 2,070 | [figma/mcp-server-guide](https://github.com/figma/mcp-server-guide) | 2026-10-13 | figma |
+| 20 | 1,148 | [viticci/shortcuts-playground-plugin](https://github.com/viticci/shortcuts-playground-plugin) | 2026-06-15 | shortcuts-playground |
+| 21 | 676 | [superdesigndev/superdesign-skill](https://github.com/superdesigndev/superdesign-skill) | 2026-08-21 | superdesign |
+| 22 | 596 | [Shopify/shopify-ai-toolkit](https://github.com/Shopify/shopify-ai-toolkit) | 2026-10-08 | shopify-plugin, shopify-plugin |
+| 23 | 561 | [docker/skills](https://github.com/docker/skills) | 2026-10-04 | docker-skills |
+| 24 | 515 | [gitroomhq/postiz-agent](https://github.com/gitroomhq/postiz-agent) | 2026-10-13 | postiz |
+| 25 | 494 | [makenotion/claude-code-notion-plugin](https://github.com/makenotion/claude-code-notion-plugin) | 2026-01-22 | Notion |
+| 26 | 488 | [tavily-ai/skills](https://github.com/tavily-ai/skills) | 2026-09-04 | tavily |
+| 27 | 452 | [astronomer/agents](https://github.com/astronomer/agents) | 2026-10-13 | astronomer-data |
+| 28 | 435 | [zapier/zapier-mcp](https://github.com/zapier/zapier-mcp) | 2026-07-29 | zapier |
+| 29 | 265 | [brightdata/skills](https://github.com/brightdata/skills) | 2026-10-13 | brightdata-plugin |
+| 30 | 210 | [mattnowdev/thinking-partner](https://github.com/mattnowdev/thinking-partner) | 2026-03-31 | thinking-partner |
+| 31 | 205 | [senlindesign/claude2figma](https://github.com/senlindesign/claude2figma) | 2026-05-13 | claude2figma |
+| 32 | 199 | [Digital-Process-Tools/claude-remember](https://github.com/Digital-Process-Tools/claude-remember) | 2026-10-13 | remember |
+| 33 | 161 | [miroapp/miro-ai](https://github.com/miroapp/miro-ai) | 2026-09-17 | miro |
+| 34 | 150 | [camilleroux/genart-skill](https://github.com/camilleroux/genart-skill) | 2026-10-12 | genart |
+| 35 | 145 | [skovalik/perception-first-design](https://github.com/skovalik/perception-first-design) | 2026-06-25 | perception-first-design |
+| 36 | 134 | [techwolf-ai/ai-first-toolkit](https://github.com/techwolf-ai/ai-first-toolkit) |  | ai-adoption, ai-firstify, content-studio |
+| 37 | 125 | [canva-sdks/canva-skills](https://github.com/canva-sdks/canva-skills) | 2026-06-30 | canva |
+| 38 | 123 | [firecrawl/skills](https://github.com/firecrawl/skills) | 2026-10-08 | firecrawl |
+| 39 | 122 | [OriNachum/claude-code-guide](https://github.com/OriNachum/claude-code-guide) | 2026-06-17 | guide |
+| 40 | 104 | [cuellarfr/design-skills](https://github.com/cuellarfr/design-skills) | 2026-09-30 | design-skills |
+| 41 | 102 | [amekala/ads-mcp](https://github.com/amekala/ads-mcp) | 2026-10-08 | adspirer-ads-agent |
+| 42 | 93 | [MagicPathAI/agent-skills](https://github.com/MagicPathAI/agent-skills) | 2026-07-15 | magicpath |
+| 43 | 90 | [youdotcom-oss/agent-skills](https://github.com/youdotcom-oss/agent-skills) | 2026-10-13 | you |
+| 44 | 78 | [LMTYdotcom/skills](https://github.com/LMTYdotcom/skills) | 2026-10-02 | lmty |
+| 45 | 62 | [ykdojo/paper-search](https://github.com/ykdojo/paper-search) | 2026-03-16 | paper-search |
+| 46 | 59 | [opensearch-project/opensearch-agent-skills](https://github.com/opensearch-project/opensearch-agent-skills) | 2026-10-13 | opensearch-agent-skills |
+| 47 | 59 | [confluentinc/agent-skills](https://github.com/confluentinc/agent-skills) | 2026-10-06 | streaming-skills-plugin |
+| 48 | 53 | [oracle-samples/oracle-aidp-samples](https://github.com/oracle-samples/oracle-aidp-samples) | 2026-10-14 | oracle-ai-data-platform-workbench-engineer-agent |
+| 49 | 51 | [airtable/skills](https://github.com/airtable/skills) | 2026-07-21 | airtable |
+| 50 | 51 | [Automattic/claude-code-wordpress.com](https://github.com/Automattic/claude-code-wordpress.com) | 2026-04-20 | build-with-wordpress |
+| 51 | 51 | [lowenbjer/claude-terse](https://github.com/lowenbjer/claude-terse) | 2026-10-08 | terse |
+| 52 | 47 | [surendranb/writing-skills](https://github.com/surendranb/writing-skills) | 2026-09-02 | writing-skills |
+| 53 | 42 | [accoil/product-tracking-skills](https://github.com/accoil/product-tracking-skills) | 2026-10-09 | product-tracking-skills |
+| 54 | 36 | [togethercomputer/skills](https://github.com/togethercomputer/skills) | 2026-10-13 | togetherai-skills |
+| 55 | 34 | [GoogleCloudPlatform/knowledge-catalog-plugin](https://github.com/GoogleCloudPlatform/knowledge-catalog-plugin) | 2026-09-22 | knowledge-catalog |
+| 56 | 34 | [wix/skills](https://github.com/wix/skills) | 2026-10-14 | wix |
+| 57 | 27 | [realgarit/fable-baton](https://github.com/realgarit/fable-baton) | 2026-10-13 | fable-baton |
+| 58 | 25 | [atlassian/forge-skills](https://github.com/atlassian/forge-skills) | 2026-10-14 | forge-skills |
+| 59 | 22 | [pjhoberman/autoresearch](https://github.com/pjhoberman/autoresearch) | 2026-03-24 | autoresearch |
+| 60 | 20 | [tinyfish-io/tinyfish-web-agent-integrations](https://github.com/tinyfish-io/tinyfish-web-agent-integrations) | 2026-10-13 | tinyfish |
+| 61 | 16 | [thedoublejay/please-optimize-my-claude](https://github.com/thedoublejay/please-optimize-my-claude) | 2026-04-09 | please-optimize-my-claude |
+| 62 | 15 | [BeMySlaveDarlin/cc-bootstrapper](https://github.com/BeMySlaveDarlin/cc-bootstrapper) | 2026-09-03 | cc-bootstrapper |
+| 63 | 14 | [surenode-ai/skill-discovery](https://github.com/surenode-ai/skill-discovery) | 2026-08-12 | skill-discovery |
+| 64 | 13 | [proyecto26/autoresearch-ai-plugin](https://github.com/proyecto26/autoresearch-ai-plugin) | 2026-07-18 | autoresearch-ai-plugin |
+| 65 | 13 | [wrsmith108/plan-review-skill](https://github.com/wrsmith108/plan-review-skill) | 2026-10-11 | plan-review |
+| 66 | 13 | [ironyjk/strategy-frameworks](https://github.com/ironyjk/strategy-frameworks) | 2026-04-20 | strategy-frameworks |
+| 67 | 12 | [carlsz/ux-agent-skills](https://github.com/carlsz/ux-agent-skills) | 2026-08-25 | ux-agent-skills |
+| 68 | 11 | [heyparsadev/liquid-glass-skill](https://github.com/heyparsadev/liquid-glass-skill) | 2026-10-11 | liquid-glass |
+| 69 | 11 | [SYM1000/claude-statusbar](https://github.com/SYM1000/claude-statusbar) | 2026-03-31 | statusbar |
+| 70 | 10 | [imshaikot/render-visual-skill](https://github.com/imshaikot/render-visual-skill) | 2026-08-26 | render-visual-skill |
+| 71 | 9 | [tombelieber/claude-backup](https://github.com/tombelieber/claude-backup) | 2026-09-25 | claude-backup |
+| 72 | 9 | [MSApps-Mobile/claude-plugins](https://github.com/MSApps-Mobile/claude-plugins) | 2026-10-13 | claude-md-composer, cowork-mem, cowork-session-fixer |
+| 73 | 7 | [o-k-7/6X6](https://github.com/o-k-7/6X6) | 2026-09-09 | 6x6 |
+| 74 | 7 | [holistics/skills](https://github.com/holistics/skills) | 2026-10-12 | holistics-development |
+| 75 | 7 | [stefanoskarakasis/Product-Marketing-Skills](https://github.com/stefanoskarakasis/Product-Marketing-Skills) | 2026-10-13 | pmm-positioning |
+| 76 | 6 | [michael-denyer/agent-formal-verify](https://github.com/michael-denyer/agent-formal-verify) | 2026-10-08 | agent-formal-verify |
+| 77 | 6 | [carboneio/carbone-skill](https://github.com/carboneio/carbone-skill) | 2026-08-19 | carbone-skill |
+| 78 | 6 | [crystian/crystools-statusline](https://github.com/crystian/crystools-statusline) | 2026-05-06 | crystools-statusline |
+| 79 | 6 | [lovablelabs/mcp](https://github.com/lovablelabs/mcp) | 2026-09-27 | lovable |
+| 80 | 5 | [2ykwang/abdiff](https://github.com/2ykwang/abdiff) | 2026-08-29 | abdiff |
+| 81 | 5 | [truenorth-lj/adaptive-agent-skill](https://github.com/truenorth-lj/adaptive-agent-skill) | 2026-04-15 | adaptive-agent |
+| 82 | 5 | [Shimin-Zhang/inhabited-design](https://github.com/Shimin-Zhang/inhabited-design) | 2026-06-22 | inhabited-design |
+| 83 | 4 | [ag2ai/ag2-claude-plugins](https://github.com/ag2ai/ag2-claude-plugins) |  | ag2-agent-guide, ag2-agent-reviewer, ag2-agent-scaffold, ag2-tool-builder, ag2-workflow-patterns |
+| 84 | 4 | [cyrusxyl/agent-discussion](https://github.com/cyrusxyl/agent-discussion) | 2026-03-04 | agent-discussion |
+| 85 | 4 | [Keshab0310/agent-memory](https://github.com/Keshab0310/agent-memory) | 2026-04-02 | agent-memory |
+| 86 | 4 | [gwenneg/ai-mentor](https://github.com/gwenneg/ai-mentor) | 2026-10-12 | ai-mentor |
+| 87 | 4 | [zaridan/job-hunt-hq](https://github.com/zaridan/job-hunt-hq) | 2026-07-13 | job-hunt-hq |
+| 88 | 4 | [pinetreeB/show-me-the-work](https://github.com/pinetreeB/show-me-the-work) | 2026-08-08 | show-me-the-work |
+| 89 | 4 | [msishariful/claude-token-inspector](https://github.com/msishariful/claude-token-inspector) | 2026-05-14 | token-inspector |
+| 90 | 3 | [adelaidasofia/claude-performance](https://github.com/adelaidasofia/claude-performance) | 2026-09-09 | claude-performance |
+| 91 | 3 | [tatertot365/claude-persona-plugin](https://github.com/tatertot365/claude-persona-plugin) | 2026-03-31 | persona |
+| 92 | 2 | [harrisonjdahl3/agency-mcp-plugin](https://github.com/harrisonjdahl3/agency-mcp-plugin) | 2026-10-13 | agency-mcp |
+| 93 | 2 | [rad-security/claude-code-plugin](https://github.com/rad-security/claude-code-plugin) | 2026-08-06 | agentkeeper |
+| 94 | 2 | [LukasRahn/claude-pulse](https://github.com/LukasRahn/claude-pulse) | 2026-08-10 | claude-pulse |
+| 95 | 2 | [furic/extract-alpha](https://github.com/furic/extract-alpha) | 2026-04-02 | extract-alpha |
+| 96 | 2 | [WenyuChiou/session-sweep](https://github.com/WenyuChiou/session-sweep) | 2026-03-25 | session-sweep |
+| 97 | 2 | [khadinakbarlabs/shopify-app-builder](https://github.com/khadinakbarlabs/shopify-app-builder) | 2026-10-10 | shopify-app-builder |
+| 98 | 2 | [Wicked-Sick-Ltd/token-usage](https://github.com/Wicked-Sick-Ltd/token-usage) | 2026-10-11 | token-usage |
+| 99 | 2 | [uxbyissa/ux-ui-audit](https://github.com/uxbyissa/ux-ui-audit) | 2026-09-01 | ux-ui-audit |
+| 100 | 2 | [sebastianbreguel/wherewasi](https://github.com/sebastianbreguel/wherewasi) | 2026-06-08 | wherewasi |
+| 101 | 1 | [arneesh/agent-protocols](https://github.com/arneesh/agent-protocols) | 2026-04-16 | agent-protocols |
+| 102 | 1 | [MrBogomips/agentic-harness](https://github.com/MrBogomips/agentic-harness) | 2026-09-28 | agentic-harness |
+| 103 | 1 | [ggrigo/align](https://github.com/ggrigo/align) | 2026-07-18 | align |
+| 104 | 1 | [FinalAngel/claude-annotate](https://github.com/FinalAngel/claude-annotate) | 2026-10-07 | annotate |
+| 105 | 1 | [sheitabrk/backend-design](https://github.com/sheitabrk/backend-design) | 2026-05-19 | backend-design |
+| 106 | 1 | [eel-brah/burn-baby-burn](https://github.com/eel-brah/burn-baby-burn) |  | burn-baby-burn |
+| 107 | 1 | [benskamps/career-compass-plugin](https://github.com/benskamps/career-compass-plugin) | 2026-10-14 | career-compass |
+| 108 | 1 | [enalbenerraw/blanewarrene](https://github.com/enalbenerraw/blanewarrene) | 2026-10-03 | comparative-landscape-brief |
+| 109 | 1 | [michaelandrewgamble/workflows-conductor](https://github.com/michaelandrewgamble/workflows-conductor) | 2026-08-17 | conductor |
+| 110 | 1 | [thevrus/consistent-ui](https://github.com/thevrus/consistent-ui) | 2026-05-03 | consistent-ui |
+| 111 | 1 | [grayskripko/marketing-skills](https://github.com/grayskripko/marketing-skills) | 2026-10-13 | copywriting-kit, marketing-psychology |
+| 112 | 1 | [ihlamury/design-drift](https://github.com/ihlamury/design-drift) | 2026-04-14 | design-drift |
+| 113 | 1 | [robukh/figma-suite](https://github.com/robukh/figma-suite) | 2026-07-28 | figma-suite |
+| 114 | 1 | [dibyajyoti92/goodnight-alchemist](https://github.com/dibyajyoti92/goodnight-alchemist) | 2026-09-25 | goodnight-alchemist |
+| 115 | 1 | [RevOps-Studio/claude-cowork-gtm-planner-plugin](https://github.com/RevOps-Studio/claude-cowork-gtm-planner-plugin) | 2026-10-01 | gtm-planner |
+| 116 | 1 | [coursera/skills](https://github.com/coursera/skills) |  | learn-with-coursera |
+| 117 | 1 | [wildblue-ai/llm-secure-patterns](https://github.com/wildblue-ai/llm-secure-patterns) | 2026-08-27 | llm-secure-patterns |
+| 118 | 1 | [apardawala/ai-navigator](https://github.com/apardawala/ai-navigator) | 2026-05-01 | lookout |
+| 119 | 1 | [DonHeidi/online-writing-skills](https://github.com/DonHeidi/online-writing-skills) | 2026-09-18 | online-writing |
+| 120 | 1 | [TheRealDinghyDog/opencode-plugin-cc](https://github.com/TheRealDinghyDog/opencode-plugin-cc) | 2026-10-06 | opencode |
+| 121 | 1 | [macsystems/penpot-atomic-design](https://github.com/macsystems/penpot-atomic-design) | 2026-09-21 | penpot-atomic-design |
+| 122 | 1 | [VladislavDerkach/product-discovery-flow](https://github.com/VladislavDerkach/product-discovery-flow) | 2026-10-12 | product-discovery-flow |
+| 123 | 1 | [zeglin/promptup](https://github.com/zeglin/promptup) | 2026-03-13 | promptup |
+| 124 | 1 | [VassilisSoum/prove](https://github.com/VassilisSoum/prove) | 2026-06-21 | prove |
+| 125 | 1 | [xiaotianzhao/read-paper-plugin](https://github.com/xiaotianzhao/read-paper-plugin) |  | read-paper |
+| 126 | 1 | [steviepee/relay](https://github.com/steviepee/relay) |  | relay |
+| 127 | 1 | [pendo-io/claude-pendo-plugin](https://github.com/pendo-io/claude-pendo-plugin) | 2026-10-12 | setup-agent-analytics, setup-mcp-agent-analytics |
+| 128 | 1 | [vadimsv1/ship-plugin](https://github.com/vadimsv1/ship-plugin) | 2026-07-24 | ship |
+| 129 | 1 | [Lorhard/lorkinsey](https://github.com/Lorhard/lorkinsey) |  | snowball |
+| 130 | 1 | [a-ng-d/claude-ui-color-palette](https://github.com/a-ng-d/claude-ui-color-palette) | 2026-08-03 | ui-color-palette |
+| 131 | 1 | [Unleash/unleash-claude-skills](https://github.com/Unleash/unleash-claude-skills) | 2026-08-03 | unleash |
+| 132 | 1 | [VectorLabAU/skills](https://github.com/VectorLabAU/skills) | 2026-09-16 | vectorlab-ux-skills |
+| 133 | 1 | [wrsmith108/wave-planner-claude-skill](https://github.com/wrsmith108/wave-planner-claude-skill) | 2026-09-11 | wave-planner |
+| 134 | 1 | [wireless-choices/claude-plugins](https://github.com/wireless-choices/claude-plugins) | 2026-10-04 | wireless-choices |
+| 135 | 1 | [truong170201/work-unit-roadmap](https://github.com/truong170201/work-unit-roadmap) | 2026-05-12 | wur |
+| 136 | 0 | [yukurash/16minds-lab](https://github.com/yukurash/16minds-lab) | 2026-08-24 | 16-minds |
+| 137 | 0 | [Klopyy/active-memory](https://github.com/Klopyy/active-memory) | 2026-09-29 | active-memory |
+| 138 | 0 | [WillowRyu/agent-handoff](https://github.com/WillowRyu/agent-handoff) | 2026-05-26 | agent-handoff |
+| 139 | 0 | [dtsong/agentic-council](https://github.com/dtsong/agentic-council) | 2026-07-16 | agentic-council |
+| 140 | 0 | [cedricfarinazzo/agile-skills](https://github.com/cedricfarinazzo/agile-skills) | 2026-10-13 | agile-product, agile-sprint-drain |
+| 141 | 0 | [YeshikaSenadeera/ds-ai-check](https://github.com/YeshikaSenadeera/ds-ai-check) |  | ai-ready-ds |
+| 142 | 0 | [paynekerz/alexandria](https://github.com/paynekerz/alexandria) | 2026-07-19 | alexandria |
+| 143 | 0 | [StanimirTenev/baton](https://github.com/StanimirTenev/baton) | 2026-10-12 | baton |
+| 144 | 0 | [Blueprint-Studio-AI/claude-code-asset-generator](https://github.com/Blueprint-Studio-AI/claude-code-asset-generator) | 2026-10-13 | blueprint-studio |
+| 145 | 0 | [ulrichmonthe/build-companion](https://github.com/ulrichmonthe/build-companion) | 2026-09-04 | build-companion |
+| 146 | 0 | [enoevol81/enoevol-plugins](https://github.com/enoevol81/enoevol-plugins) | 2026-09-29 | canon-check, critic-layer |
+| 147 | 0 | [petrovicistefan/claude-code-plugins](https://github.com/petrovicistefan/claude-code-plugins) | 2026-10-07 | caveman, responsive-check, task-observer |
+| 148 | 0 | [Alfafis/cc-token-statusline](https://github.com/Alfafis/cc-token-statusline) | 2026-08-18 | cc-token-statusline |
+| 149 | 0 | [khadinakbarlabs/chrome-extension-builder-plugin](https://github.com/khadinakbarlabs/chrome-extension-builder-plugin) | 2026-10-05 | chrome-extension-builder |
+| 150 | 0 | [rjspence3/claude-hooks](https://github.com/rjspence3/claude-hooks) | 2026-03-26 | claude-hooks |
+| 151 | 0 | [ZhaoChaoqun/claude-notify](https://github.com/ZhaoChaoqun/claude-notify) | 2026-04-21 | claude-notify |
+| 152 | 0 | [arifbsmrstu/claudemeter](https://github.com/arifbsmrstu/claudemeter) | 2026-09-07 | claudemeter |
+| 153 | 0 | [shinytoyrobots/configurable-council](https://github.com/shinytoyrobots/configurable-council) | 2026-09-29 | council |
+| 154 | 0 | [Create-State/claude-plugin](https://github.com/Create-State/claude-plugin) | 2026-10-01 | create-state |
+| 155 | 0 | [fusion-software-ltd/decision-council](https://github.com/fusion-software-ltd/decision-council) | 2026-04-16 | decision-council |
+| 156 | 0 | [LSDimi/design-superpowers](https://github.com/LSDimi/design-superpowers) | 2026-09-05 | design-superpowers |
+| 157 | 0 | [beatlejute/drunken-master](https://github.com/beatlejute/drunken-master) | 2026-09-30 | drunken-master |
+| 158 | 0 | [beaverbeard/gdrive-to-markdown](https://github.com/beaverbeard/gdrive-to-markdown) | 2026-10-02 | gdrive-to-markdown |
+| 159 | 0 | [SunrisesIllNeverSee/moses-governance-cowork](https://github.com/SunrisesIllNeverSee/moses-governance-cowork) | 2026-10-06 | governance |
+| 160 | 0 | [prathameshkadam130404/claude-governor](https://github.com/prathameshkadam130404/claude-governor) | 2026-07-11 | governor |
+| 161 | 0 | [ridelink0/image-deep-research](https://github.com/ridelink0/image-deep-research) | 2026-09-29 | image-deep-research |
+| 162 | 0 | [ironyjk/learning-framework](https://github.com/ironyjk/learning-framework) | 2026-04-20 | learning-framework |
+| 163 | 0 | [farzanmrz/meta-dev](https://github.com/farzanmrz/meta-dev) | 2026-07-07 | meta-dev |
+| 164 | 0 | [ajribeiro/napkin-math](https://github.com/ajribeiro/napkin-math) | 2026-09-25 | napkin-math |
+| 165 | 0 | [ApurvBazari/claude-plugins](https://github.com/ApurvBazari/claude-plugins) | 2026-10-14 | notify |
+| 166 | 0 | [m4bwav/obsidian-notes](https://github.com/m4bwav/obsidian-notes) | 2026-10-14 | obsidian-notes |
+| 167 | 0 | [chenlei1700/obsidian-sync](https://github.com/chenlei1700/obsidian-sync) | 2026-04-05 | obsidian-sync |
+| 168 | 0 | [sebstaq/opencode-subagent-mcp](https://github.com/sebstaq/opencode-subagent-mcp) | 2026-09-27 | opencode-subagent-mcp |
+| 169 | 0 | [alphonso77/claude-orchestration](https://github.com/alphonso77/claude-orchestration) | 2026-09-02 | orch |
+| 170 | 0 | [animeshpatni94/parrot](https://github.com/animeshpatni94/parrot) |  | parrot |
+| 171 | 0 | [wion4/plugin-pilot](https://github.com/wion4/plugin-pilot) | 2026-04-09 | plugin-pilot |
+| 172 | 0 | [helixis-plugins/pm](https://github.com/helixis-plugins/pm) | 2026-03-25 | pm |
+| 173 | 0 | [tarekst/prompt-brain](https://github.com/tarekst/prompt-brain) | 2026-10-13 | prompt-brain |
+| 174 | 0 | [bogheorghiu/prompt-design](https://github.com/bogheorghiu/prompt-design) | 2026-10-02 | prompt-design |
+| 175 | 0 | [proofable/mcp](https://github.com/proofable/mcp) | 2026-10-13 | proofable-mcp |
+| 176 | 0 | [RachaelQuisel/questions-worth-asking](https://github.com/RachaelQuisel/questions-worth-asking) | 2026-10-12 | questions-worth-asking |
+| 177 | 0 | [badoriie/rich-statusline](https://github.com/badoriie/rich-statusline) | 2026-05-19 | rich-statusline |
+| 178 | 0 | [TGFounder/ROSS](https://github.com/TGFounder/ROSS) | 2026-10-10 | ross |
+| 179 | 0 | [smrht/samautomation-workflows](https://github.com/smrht/samautomation-workflows) | 2026-10-06 | samautomation-workflows |
+| 180 | 0 | [Jjohnston70/small-business-ai-rules](https://github.com/Jjohnston70/small-business-ai-rules) | 2026-09-26 | small-business-ai-rules |
+| 181 | 0 | [revuitysystems/revuity-small-business-operator](https://github.com/revuitysystems/revuity-small-business-operator) | 2026-10-02 | small-business-operator |
+| 182 | 0 | [FurbySoup/status-quote](https://github.com/FurbySoup/status-quote) | 2026-04-21 | statusquote |
+| 183 | 0 | [Skills-transfer-hub/sth-plugin](https://github.com/Skills-transfer-hub/sth-plugin) | 2026-10-07 | sth |
+| 184 | 0 | [supermetrics-public/claude-marketing-plugin](https://github.com/supermetrics-public/claude-marketing-plugin) | 2026-05-12 | supermetrics-marketing |
+| 185 | 0 | [Hirannad/tenet](https://github.com/Hirannad/tenet) | 2026-10-14 | tenet |
+| 186 | 0 | [Jjohnston70/think-before-you-build](https://github.com/Jjohnston70/think-before-you-build) | 2026-09-26 | think-before-you-build |
+| 187 | 0 | [khalilmaaouni/token-shield](https://github.com/khalilmaaouni/token-shield) | 2026-09-13 | token-shield |
+| 188 | 0 | [kamenkurtev/ui-consistency](https://github.com/kamenkurtev/ui-consistency) | 2026-10-08 | ui-consistency |
+| 189 | 0 | [adnanmir123/ux-superpowers](https://github.com/adnanmir123/ux-superpowers) | 2026-04-12 | ux-superpowers |
+| 190 | 0 | [applesnort/vellum](https://github.com/applesnort/vellum) | 2026-05-03 | vellum |
+| 191 | 0 | [iskysun96/whats-new](https://github.com/iskysun96/whats-new) | 2026-05-13 | whats-new |
+| 192 | 0 | [natejungtechcomm/writing-process](https://github.com/natejungtechcomm/writing-process) | 2026-10-12 | writing-process |
+| 193 | 0 | [ziazon/zizi-skills](https://github.com/ziazon/zizi-skills) | 2026-10-13 | zizi-skills |
+| 194 | n/a | [mattiadragone/storefront-theme-kit](https://github.com/mattiadragone/storefront-theme-kit) |  | storefront-theme-kit |
+| 195 | n/a | (no repo) your-rules-file |  | your-rules-file |
+
+## Every plugin, highest to lowest
+
+| # | Plugin | Stars | Repo | Shared by |
+|---:|---|---:|---|---:|
+| 1 | superpowers | 298,822 | [obra/superpowers](https://github.com/obra/superpowers) | 1 |
+| 2 | mattpocock-skills | 290,195 | [mattpocock/skills](https://github.com/mattpocock/skills) | 1 |
+| 3 | code-review | 150,711 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 6 |
+| 4 | commit-commands | 150,711 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 6 |
+| 5 | feature-dev | 150,711 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 6 |
+| 6 | frontend-design | 150,711 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 6 |
+| 7 | hookify | 150,711 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 6 |
+| 8 | pr-review-toolkit | 150,711 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 6 |
+| 9 | browser-use | 117,896 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 1 |
+| 10 | context7 | 62,991 | [upstash/context7](https://github.com/upstash/context7) | 1 |
+| 11 | obsidian | 49,510 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 1 |
+| 12 | earnings-reviewer | 39,767 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 8 |
+| 13 | financial-analysis | 39,767 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 8 |
+| 14 | fund-admin | 39,767 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 8 |
+| 15 | market-researcher | 39,767 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 8 |
+| 16 | meeting-prep-agent | 39,767 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 8 |
+| 17 | pitch-agent | 39,767 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 8 |
+| 18 | statement-auditor | 39,767 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 8 |
+| 19 | valuation-reviewer | 39,767 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | 8 |
+| 20 | playwright | 38,117 | [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) | 1 |
+| 21 | agent-sdk-dev | 37,901 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 15 |
+| 22 | claude-code-setup | 37,901 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 15 |
+| 23 | claude-md-management | 37,901 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 15 |
+| 24 | code-simplifier | 37,901 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 15 |
+| 25 | imessage | 37,901 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 15 |
+| 26 | linear | 37,901 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 15 |
+| 27 | mcp-server-dev | 37,901 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 15 |
+| 28 | mcp-tunnels | 37,901 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 15 |
+| 29 | playground | 37,901 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 15 |
+| 30 | plugin-dev | 37,901 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 15 |
+| 31 | project-artifact | 37,901 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 15 |
+| 32 | ralph-loop | 37,901 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 15 |
+| 33 | security-guidance | 37,901 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 15 |
+| 34 | skill-creator | 37,901 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 15 |
+| 35 | unreal-engine-skills-for-claude-code | 37,901 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 15 |
+| 36 | codex | 34,189 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | 1 |
+| 37 | github | 33,576 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | 1 |
+| 38 | brand-voice | 29,587 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 15 |
+| 39 | cowork-plugin-management | 29,587 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 15 |
+| 40 | data | 29,587 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 15 |
+| 41 | design | 29,587 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 15 |
+| 42 | engineering | 29,587 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 15 |
+| 43 | enterprise-search | 29,587 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 15 |
+| 44 | finance | 29,587 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 15 |
+| 45 | legal | 29,587 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 15 |
+| 46 | marketing | 29,587 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 15 |
+| 47 | operations | 29,587 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 15 |
+| 48 | pdf-viewer | 29,587 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 15 |
+| 49 | product-management | 29,587 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 15 |
+| 50 | productivity | 29,587 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 15 |
+| 51 | sales | 29,587 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 15 |
+| 52 | small-business | 29,587 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 15 |
+| 53 | desktop-commander | 10,027 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 1 |
+| 54 | commercial-legal | 9,663 | [anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal) | 5 |
+| 55 | employment-legal | 9,663 | [anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal) | 5 |
+| 56 | ip-legal | 9,663 | [anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal) | 5 |
+| 57 | privacy-legal | 9,663 | [anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal) | 5 |
+| 58 | product-legal | 9,663 | [anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal) | 5 |
+| 59 | atomic-agents | 6,283 | [eigenwise/atomic-agents](https://github.com/eigenwise/atomic-agents) | 1 |
+| 60 | 21st | 6,002 | [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) | 1 |
+| 61 | mcp-apps | 2,953 | [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) | 1 |
+| 62 | modern-web-guidance | 2,470 | [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) | 1 |
+| 63 | figma | 2,070 | [figma/mcp-server-guide](https://github.com/figma/mcp-server-guide) | 1 |
+| 64 | shortcuts-playground | 1,148 | [viticci/shortcuts-playground-plugin](https://github.com/viticci/shortcuts-playground-plugin) | 1 |
+| 65 | superdesign | 676 | [superdesigndev/superdesign-skill](https://github.com/superdesigndev/superdesign-skill) | 1 |
+| 66 | shopify-plugin | 596 | [Shopify/shopify-ai-toolkit](https://github.com/Shopify/shopify-ai-toolkit) | 2 |
+| 67 | shopify-plugin | 596 | [Shopify/shopify-ai-toolkit](https://github.com/Shopify/shopify-ai-toolkit) | 2 |
+| 68 | docker-skills | 561 | [docker/skills](https://github.com/docker/skills) | 1 |
+| 69 | postiz | 515 | [gitroomhq/postiz-agent](https://github.com/gitroomhq/postiz-agent) | 1 |
+| 70 | Notion | 494 | [makenotion/claude-code-notion-plugin](https://github.com/makenotion/claude-code-notion-plugin) | 1 |
+| 71 | tavily | 488 | [tavily-ai/skills](https://github.com/tavily-ai/skills) | 1 |
+| 72 | astronomer-data | 452 | [astronomer/agents](https://github.com/astronomer/agents) | 1 |
+| 73 | zapier | 435 | [zapier/zapier-mcp](https://github.com/zapier/zapier-mcp) | 1 |
+| 74 | brightdata-plugin | 265 | [brightdata/skills](https://github.com/brightdata/skills) | 1 |
+| 75 | thinking-partner | 210 | [mattnowdev/thinking-partner](https://github.com/mattnowdev/thinking-partner) | 1 |
+| 76 | claude2figma | 205 | [senlindesign/claude2figma](https://github.com/senlindesign/claude2figma) | 1 |
+| 77 | remember | 199 | [Digital-Process-Tools/claude-remember](https://github.com/Digital-Process-Tools/claude-remember) | 1 |
+| 78 | miro | 161 | [miroapp/miro-ai](https://github.com/miroapp/miro-ai) | 1 |
+| 79 | genart | 150 | [camilleroux/genart-skill](https://github.com/camilleroux/genart-skill) | 1 |
+| 80 | perception-first-design | 145 | [skovalik/perception-first-design](https://github.com/skovalik/perception-first-design) | 1 |
+| 81 | ai-adoption | 134 | [techwolf-ai/ai-first-toolkit](https://github.com/techwolf-ai/ai-first-toolkit) | 3 |
+| 82 | ai-firstify | 134 | [techwolf-ai/ai-first-toolkit](https://github.com/techwolf-ai/ai-first-toolkit) | 3 |
+| 83 | content-studio | 134 | [techwolf-ai/ai-first-toolkit](https://github.com/techwolf-ai/ai-first-toolkit) | 3 |
+| 84 | canva | 125 | [canva-sdks/canva-skills](https://github.com/canva-sdks/canva-skills) | 1 |
+| 85 | firecrawl | 123 | [firecrawl/skills](https://github.com/firecrawl/skills) | 1 |
+| 86 | guide | 122 | [OriNachum/claude-code-guide](https://github.com/OriNachum/claude-code-guide) | 1 |
+| 87 | design-skills | 104 | [cuellarfr/design-skills](https://github.com/cuellarfr/design-skills) | 1 |
+| 88 | adspirer-ads-agent | 102 | [amekala/ads-mcp](https://github.com/amekala/ads-mcp) | 1 |
+| 89 | magicpath | 93 | [MagicPathAI/agent-skills](https://github.com/MagicPathAI/agent-skills) | 1 |
+| 90 | you | 90 | [youdotcom-oss/agent-skills](https://github.com/youdotcom-oss/agent-skills) | 1 |
+| 91 | lmty | 78 | [LMTYdotcom/skills](https://github.com/LMTYdotcom/skills) | 1 |
+| 92 | paper-search | 62 | [ykdojo/paper-search](https://github.com/ykdojo/paper-search) | 1 |
+| 93 | opensearch-agent-skills | 59 | [opensearch-project/opensearch-agent-skills](https://github.com/opensearch-project/opensearch-agent-skills) | 1 |
+| 94 | streaming-skills-plugin | 59 | [confluentinc/agent-skills](https://github.com/confluentinc/agent-skills) | 1 |
+| 95 | oracle-ai-data-platform-workbench-engineer-agent | 53 | [oracle-samples/oracle-aidp-samples](https://github.com/oracle-samples/oracle-aidp-samples) | 1 |
+| 96 | airtable | 51 | [airtable/skills](https://github.com/airtable/skills) | 1 |
+| 97 | build-with-wordpress | 51 | [Automattic/claude-code-wordpress.com](https://github.com/Automattic/claude-code-wordpress.com) | 1 |
+| 98 | terse | 51 | [lowenbjer/claude-terse](https://github.com/lowenbjer/claude-terse) | 1 |
+| 99 | writing-skills | 47 | [surendranb/writing-skills](https://github.com/surendranb/writing-skills) | 1 |
+| 100 | product-tracking-skills | 42 | [accoil/product-tracking-skills](https://github.com/accoil/product-tracking-skills) | 1 |
+| 101 | togetherai-skills | 36 | [togethercomputer/skills](https://github.com/togethercomputer/skills) | 1 |
+| 102 | knowledge-catalog | 34 | [GoogleCloudPlatform/knowledge-catalog-plugin](https://github.com/GoogleCloudPlatform/knowledge-catalog-plugin) | 1 |
+| 103 | wix | 34 | [wix/skills](https://github.com/wix/skills) | 1 |
+| 104 | fable-baton | 27 | [realgarit/fable-baton](https://github.com/realgarit/fable-baton) | 1 |
+| 105 | forge-skills | 25 | [atlassian/forge-skills](https://github.com/atlassian/forge-skills) | 1 |
+| 106 | autoresearch | 22 | [pjhoberman/autoresearch](https://github.com/pjhoberman/autoresearch) | 1 |
+| 107 | tinyfish | 20 | [tinyfish-io/tinyfish-web-agent-integrations](https://github.com/tinyfish-io/tinyfish-web-agent-integrations) | 1 |
+| 108 | please-optimize-my-claude | 16 | [thedoublejay/please-optimize-my-claude](https://github.com/thedoublejay/please-optimize-my-claude) | 1 |
+| 109 | cc-bootstrapper | 15 | [BeMySlaveDarlin/cc-bootstrapper](https://github.com/BeMySlaveDarlin/cc-bootstrapper) | 1 |
+| 110 | skill-discovery | 14 | [surenode-ai/skill-discovery](https://github.com/surenode-ai/skill-discovery) | 1 |
+| 111 | autoresearch-ai-plugin | 13 | [proyecto26/autoresearch-ai-plugin](https://github.com/proyecto26/autoresearch-ai-plugin) | 1 |
+| 112 | plan-review | 13 | [wrsmith108/plan-review-skill](https://github.com/wrsmith108/plan-review-skill) | 1 |
+| 113 | strategy-frameworks | 13 | [ironyjk/strategy-frameworks](https://github.com/ironyjk/strategy-frameworks) | 1 |
+| 114 | ux-agent-skills | 12 | [carlsz/ux-agent-skills](https://github.com/carlsz/ux-agent-skills) | 1 |
+| 115 | liquid-glass | 11 | [heyparsadev/liquid-glass-skill](https://github.com/heyparsadev/liquid-glass-skill) | 1 |
+| 116 | statusbar | 11 | [SYM1000/claude-statusbar](https://github.com/SYM1000/claude-statusbar) | 1 |
+| 117 | render-visual-skill | 10 | [imshaikot/render-visual-skill](https://github.com/imshaikot/render-visual-skill) | 1 |
+| 118 | claude-backup | 9 | [tombelieber/claude-backup](https://github.com/tombelieber/claude-backup) | 1 |
+| 119 | claude-md-composer | 9 | [MSApps-Mobile/claude-plugins](https://github.com/MSApps-Mobile/claude-plugins) | 3 |
+| 120 | cowork-mem | 9 | [MSApps-Mobile/claude-plugins](https://github.com/MSApps-Mobile/claude-plugins) | 3 |
+| 121 | cowork-session-fixer | 9 | [MSApps-Mobile/claude-plugins](https://github.com/MSApps-Mobile/claude-plugins) | 3 |
+| 122 | 6x6 | 7 | [o-k-7/6X6](https://github.com/o-k-7/6X6) | 1 |
+| 123 | holistics-development | 7 | [holistics/skills](https://github.com/holistics/skills) | 1 |
+| 124 | pmm-positioning | 7 | [stefanoskarakasis/Product-Marketing-Skills](https://github.com/stefanoskarakasis/Product-Marketing-Skills) | 1 |
+| 125 | agent-formal-verify | 6 | [michael-denyer/agent-formal-verify](https://github.com/michael-denyer/agent-formal-verify) | 1 |
+| 126 | carbone-skill | 6 | [carboneio/carbone-skill](https://github.com/carboneio/carbone-skill) | 1 |
+| 127 | crystools-statusline | 6 | [crystian/crystools-statusline](https://github.com/crystian/crystools-statusline) | 1 |
+| 128 | lovable | 6 | [lovablelabs/mcp](https://github.com/lovablelabs/mcp) | 1 |
+| 129 | abdiff | 5 | [2ykwang/abdiff](https://github.com/2ykwang/abdiff) | 1 |
+| 130 | adaptive-agent | 5 | [truenorth-lj/adaptive-agent-skill](https://github.com/truenorth-lj/adaptive-agent-skill) | 1 |
+| 131 | inhabited-design | 5 | [Shimin-Zhang/inhabited-design](https://github.com/Shimin-Zhang/inhabited-design) | 1 |
+| 132 | ag2-agent-guide | 4 | [ag2ai/ag2-claude-plugins](https://github.com/ag2ai/ag2-claude-plugins) | 5 |
+| 133 | ag2-agent-reviewer | 4 | [ag2ai/ag2-claude-plugins](https://github.com/ag2ai/ag2-claude-plugins) | 5 |
+| 134 | ag2-agent-scaffold | 4 | [ag2ai/ag2-claude-plugins](https://github.com/ag2ai/ag2-claude-plugins) | 5 |
+| 135 | ag2-tool-builder | 4 | [ag2ai/ag2-claude-plugins](https://github.com/ag2ai/ag2-claude-plugins) | 5 |
+| 136 | ag2-workflow-patterns | 4 | [ag2ai/ag2-claude-plugins](https://github.com/ag2ai/ag2-claude-plugins) | 5 |
+| 137 | agent-discussion | 4 | [cyrusxyl/agent-discussion](https://github.com/cyrusxyl/agent-discussion) | 1 |
+| 138 | agent-memory | 4 | [Keshab0310/agent-memory](https://github.com/Keshab0310/agent-memory) | 1 |
+| 139 | ai-mentor | 4 | [gwenneg/ai-mentor](https://github.com/gwenneg/ai-mentor) | 1 |
+| 140 | job-hunt-hq | 4 | [zaridan/job-hunt-hq](https://github.com/zaridan/job-hunt-hq) | 1 |
+| 141 | show-me-the-work | 4 | [pinetreeB/show-me-the-work](https://github.com/pinetreeB/show-me-the-work) | 1 |
+| 142 | token-inspector | 4 | [msishariful/claude-token-inspector](https://github.com/msishariful/claude-token-inspector) | 1 |
+| 143 | claude-performance | 3 | [adelaidasofia/claude-performance](https://github.com/adelaidasofia/claude-performance) | 1 |
+| 144 | persona | 3 | [tatertot365/claude-persona-plugin](https://github.com/tatertot365/claude-persona-plugin) | 1 |
+| 145 | agency-mcp | 2 | [harrisonjdahl3/agency-mcp-plugin](https://github.com/harrisonjdahl3/agency-mcp-plugin) | 1 |
+| 146 | agentkeeper | 2 | [rad-security/claude-code-plugin](https://github.com/rad-security/claude-code-plugin) | 1 |
+| 147 | claude-pulse | 2 | [LukasRahn/claude-pulse](https://github.com/LukasRahn/claude-pulse) | 1 |
+| 148 | extract-alpha | 2 | [furic/extract-alpha](https://github.com/furic/extract-alpha) | 1 |
+| 149 | session-sweep | 2 | [WenyuChiou/session-sweep](https://github.com/WenyuChiou/session-sweep) | 1 |
+| 150 | shopify-app-builder | 2 | [khadinakbarlabs/shopify-app-builder](https://github.com/khadinakbarlabs/shopify-app-builder) | 1 |
+| 151 | token-usage | 2 | [Wicked-Sick-Ltd/token-usage](https://github.com/Wicked-Sick-Ltd/token-usage) | 1 |
+| 152 | ux-ui-audit | 2 | [uxbyissa/ux-ui-audit](https://github.com/uxbyissa/ux-ui-audit) | 1 |
+| 153 | wherewasi | 2 | [sebastianbreguel/wherewasi](https://github.com/sebastianbreguel/wherewasi) | 1 |
+| 154 | agent-protocols | 1 | [arneesh/agent-protocols](https://github.com/arneesh/agent-protocols) | 1 |
+| 155 | agentic-harness | 1 | [MrBogomips/agentic-harness](https://github.com/MrBogomips/agentic-harness) | 1 |
+| 156 | align | 1 | [ggrigo/align](https://github.com/ggrigo/align) | 1 |
+| 157 | annotate | 1 | [FinalAngel/claude-annotate](https://github.com/FinalAngel/claude-annotate) | 1 |
+| 158 | backend-design | 1 | [sheitabrk/backend-design](https://github.com/sheitabrk/backend-design) | 1 |
+| 159 | burn-baby-burn | 1 | [eel-brah/burn-baby-burn](https://github.com/eel-brah/burn-baby-burn) | 1 |
+| 160 | career-compass | 1 | [benskamps/career-compass-plugin](https://github.com/benskamps/career-compass-plugin) | 1 |
+| 161 | comparative-landscape-brief | 1 | [enalbenerraw/blanewarrene](https://github.com/enalbenerraw/blanewarrene) | 1 |
+| 162 | conductor | 1 | [michaelandrewgamble/workflows-conductor](https://github.com/michaelandrewgamble/workflows-conductor) | 1 |
+| 163 | consistent-ui | 1 | [thevrus/consistent-ui](https://github.com/thevrus/consistent-ui) | 1 |
+| 164 | copywriting-kit | 1 | [grayskripko/marketing-skills](https://github.com/grayskripko/marketing-skills) | 2 |
+| 165 | design-drift | 1 | [ihlamury/design-drift](https://github.com/ihlamury/design-drift) | 1 |
+| 166 | figma-suite | 1 | [robukh/figma-suite](https://github.com/robukh/figma-suite) | 1 |
+| 167 | goodnight-alchemist | 1 | [dibyajyoti92/goodnight-alchemist](https://github.com/dibyajyoti92/goodnight-alchemist) | 1 |
+| 168 | gtm-planner | 1 | [RevOps-Studio/claude-cowork-gtm-planner-plugin](https://github.com/RevOps-Studio/claude-cowork-gtm-planner-plugin) | 1 |
+| 169 | learn-with-coursera | 1 | [coursera/skills](https://github.com/coursera/skills) | 1 |
+| 170 | llm-secure-patterns | 1 | [wildblue-ai/llm-secure-patterns](https://github.com/wildblue-ai/llm-secure-patterns) | 1 |
+| 171 | lookout | 1 | [apardawala/ai-navigator](https://github.com/apardawala/ai-navigator) | 1 |
+| 172 | marketing-psychology | 1 | [grayskripko/marketing-skills](https://github.com/grayskripko/marketing-skills) | 2 |
+| 173 | online-writing | 1 | [DonHeidi/online-writing-skills](https://github.com/DonHeidi/online-writing-skills) | 1 |
+| 174 | opencode | 1 | [TheRealDinghyDog/opencode-plugin-cc](https://github.com/TheRealDinghyDog/opencode-plugin-cc) | 1 |
+| 175 | penpot-atomic-design | 1 | [macsystems/penpot-atomic-design](https://github.com/macsystems/penpot-atomic-design) | 1 |
+| 176 | product-discovery-flow | 1 | [VladislavDerkach/product-discovery-flow](https://github.com/VladislavDerkach/product-discovery-flow) | 1 |
+| 177 | promptup | 1 | [zeglin/promptup](https://github.com/zeglin/promptup) | 1 |
+| 178 | prove | 1 | [VassilisSoum/prove](https://github.com/VassilisSoum/prove) | 1 |
+| 179 | read-paper | 1 | [xiaotianzhao/read-paper-plugin](https://github.com/xiaotianzhao/read-paper-plugin) | 1 |
+| 180 | relay | 1 | [steviepee/relay](https://github.com/steviepee/relay) | 1 |
+| 181 | setup-agent-analytics | 1 | [pendo-io/claude-pendo-plugin](https://github.com/pendo-io/claude-pendo-plugin) | 2 |
+| 182 | setup-mcp-agent-analytics | 1 | [pendo-io/claude-pendo-plugin](https://github.com/pendo-io/claude-pendo-plugin) | 2 |
+| 183 | ship | 1 | [vadimsv1/ship-plugin](https://github.com/vadimsv1/ship-plugin) | 1 |
+| 184 | snowball | 1 | [Lorhard/lorkinsey](https://github.com/Lorhard/lorkinsey) | 1 |
+| 185 | ui-color-palette | 1 | [a-ng-d/claude-ui-color-palette](https://github.com/a-ng-d/claude-ui-color-palette) | 1 |
+| 186 | unleash | 1 | [Unleash/unleash-claude-skills](https://github.com/Unleash/unleash-claude-skills) | 1 |
+| 187 | vectorlab-ux-skills | 1 | [VectorLabAU/skills](https://github.com/VectorLabAU/skills) | 1 |
+| 188 | wave-planner | 1 | [wrsmith108/wave-planner-claude-skill](https://github.com/wrsmith108/wave-planner-claude-skill) | 1 |
+| 189 | wireless-choices | 1 | [wireless-choices/claude-plugins](https://github.com/wireless-choices/claude-plugins) | 1 |
+| 190 | wur | 1 | [truong170201/work-unit-roadmap](https://github.com/truong170201/work-unit-roadmap) | 1 |
+| 191 | 16-minds | 0 | [yukurash/16minds-lab](https://github.com/yukurash/16minds-lab) | 1 |
+| 192 | active-memory | 0 | [Klopyy/active-memory](https://github.com/Klopyy/active-memory) | 1 |
+| 193 | agent-handoff | 0 | [WillowRyu/agent-handoff](https://github.com/WillowRyu/agent-handoff) | 1 |
+| 194 | agentic-council | 0 | [dtsong/agentic-council](https://github.com/dtsong/agentic-council) | 1 |
+| 195 | agile-product | 0 | [cedricfarinazzo/agile-skills](https://github.com/cedricfarinazzo/agile-skills) | 2 |
+| 196 | agile-sprint-drain | 0 | [cedricfarinazzo/agile-skills](https://github.com/cedricfarinazzo/agile-skills) | 2 |
+| 197 | ai-ready-ds | 0 | [YeshikaSenadeera/ds-ai-check](https://github.com/YeshikaSenadeera/ds-ai-check) | 1 |
+| 198 | alexandria | 0 | [paynekerz/alexandria](https://github.com/paynekerz/alexandria) | 1 |
+| 199 | baton | 0 | [StanimirTenev/baton](https://github.com/StanimirTenev/baton) | 1 |
+| 200 | blueprint-studio | 0 | [Blueprint-Studio-AI/claude-code-asset-generator](https://github.com/Blueprint-Studio-AI/claude-code-asset-generator) | 1 |
+| 201 | build-companion | 0 | [ulrichmonthe/build-companion](https://github.com/ulrichmonthe/build-companion) | 1 |
+| 202 | canon-check | 0 | [enoevol81/enoevol-plugins](https://github.com/enoevol81/enoevol-plugins) | 2 |
+| 203 | caveman | 0 | [petrovicistefan/claude-code-plugins](https://github.com/petrovicistefan/claude-code-plugins) | 3 |
+| 204 | cc-token-statusline | 0 | [Alfafis/cc-token-statusline](https://github.com/Alfafis/cc-token-statusline) | 1 |
+| 205 | chrome-extension-builder | 0 | [khadinakbarlabs/chrome-extension-builder-plugin](https://github.com/khadinakbarlabs/chrome-extension-builder-plugin) | 1 |
+| 206 | claude-hooks | 0 | [rjspence3/claude-hooks](https://github.com/rjspence3/claude-hooks) | 1 |
+| 207 | claude-notify | 0 | [ZhaoChaoqun/claude-notify](https://github.com/ZhaoChaoqun/claude-notify) | 1 |
+| 208 | claudemeter | 0 | [arifbsmrstu/claudemeter](https://github.com/arifbsmrstu/claudemeter) | 1 |
+| 209 | council | 0 | [shinytoyrobots/configurable-council](https://github.com/shinytoyrobots/configurable-council) | 1 |
+| 210 | create-state | 0 | [Create-State/claude-plugin](https://github.com/Create-State/claude-plugin) | 1 |
+| 211 | critic-layer | 0 | [enoevol81/enoevol-plugins](https://github.com/enoevol81/enoevol-plugins) | 2 |
+| 212 | decision-council | 0 | [fusion-software-ltd/decision-council](https://github.com/fusion-software-ltd/decision-council) | 1 |
+| 213 | design-superpowers | 0 | [LSDimi/design-superpowers](https://github.com/LSDimi/design-superpowers) | 1 |
+| 214 | drunken-master | 0 | [beatlejute/drunken-master](https://github.com/beatlejute/drunken-master) | 1 |
+| 215 | gdrive-to-markdown | 0 | [beaverbeard/gdrive-to-markdown](https://github.com/beaverbeard/gdrive-to-markdown) | 1 |
+| 216 | governance | 0 | [SunrisesIllNeverSee/moses-governance-cowork](https://github.com/SunrisesIllNeverSee/moses-governance-cowork) | 1 |
+| 217 | governor | 0 | [prathameshkadam130404/claude-governor](https://github.com/prathameshkadam130404/claude-governor) | 1 |
+| 218 | image-deep-research | 0 | [ridelink0/image-deep-research](https://github.com/ridelink0/image-deep-research) | 1 |
+| 219 | learning-framework | 0 | [ironyjk/learning-framework](https://github.com/ironyjk/learning-framework) | 1 |
+| 220 | meta-dev | 0 | [farzanmrz/meta-dev](https://github.com/farzanmrz/meta-dev) | 1 |
+| 221 | napkin-math | 0 | [ajribeiro/napkin-math](https://github.com/ajribeiro/napkin-math) | 1 |
+| 222 | notify | 0 | [ApurvBazari/claude-plugins](https://github.com/ApurvBazari/claude-plugins) | 1 |
+| 223 | obsidian-notes | 0 | [m4bwav/obsidian-notes](https://github.com/m4bwav/obsidian-notes) | 1 |
+| 224 | obsidian-sync | 0 | [chenlei1700/obsidian-sync](https://github.com/chenlei1700/obsidian-sync) | 1 |
+| 225 | opencode-subagent-mcp | 0 | [sebstaq/opencode-subagent-mcp](https://github.com/sebstaq/opencode-subagent-mcp) | 1 |
+| 226 | orch | 0 | [alphonso77/claude-orchestration](https://github.com/alphonso77/claude-orchestration) | 1 |
+| 227 | parrot | 0 | [animeshpatni94/parrot](https://github.com/animeshpatni94/parrot) | 1 |
+| 228 | plugin-pilot | 0 | [wion4/plugin-pilot](https://github.com/wion4/plugin-pilot) | 1 |
+| 229 | pm | 0 | [helixis-plugins/pm](https://github.com/helixis-plugins/pm) | 1 |
+| 230 | prompt-brain | 0 | [tarekst/prompt-brain](https://github.com/tarekst/prompt-brain) | 1 |
+| 231 | prompt-design | 0 | [bogheorghiu/prompt-design](https://github.com/bogheorghiu/prompt-design) | 1 |
+| 232 | proofable-mcp | 0 | [proofable/mcp](https://github.com/proofable/mcp) | 1 |
+| 233 | questions-worth-asking | 0 | [RachaelQuisel/questions-worth-asking](https://github.com/RachaelQuisel/questions-worth-asking) | 1 |
+| 234 | responsive-check | 0 | [petrovicistefan/claude-code-plugins](https://github.com/petrovicistefan/claude-code-plugins) | 3 |
+| 235 | rich-statusline | 0 | [badoriie/rich-statusline](https://github.com/badoriie/rich-statusline) | 1 |
+| 236 | ross | 0 | [TGFounder/ROSS](https://github.com/TGFounder/ROSS) | 1 |
+| 237 | samautomation-workflows | 0 | [smrht/samautomation-workflows](https://github.com/smrht/samautomation-workflows) | 1 |
+| 238 | small-business-ai-rules | 0 | [Jjohnston70/small-business-ai-rules](https://github.com/Jjohnston70/small-business-ai-rules) | 1 |
+| 239 | small-business-operator | 0 | [revuitysystems/revuity-small-business-operator](https://github.com/revuitysystems/revuity-small-business-operator) | 1 |
+| 240 | statusquote | 0 | [FurbySoup/status-quote](https://github.com/FurbySoup/status-quote) | 1 |
+| 241 | sth | 0 | [Skills-transfer-hub/sth-plugin](https://github.com/Skills-transfer-hub/sth-plugin) | 1 |
+| 242 | supermetrics-marketing | 0 | [supermetrics-public/claude-marketing-plugin](https://github.com/supermetrics-public/claude-marketing-plugin) | 1 |
+| 243 | task-observer | 0 | [petrovicistefan/claude-code-plugins](https://github.com/petrovicistefan/claude-code-plugins) | 3 |
+| 244 | tenet | 0 | [Hirannad/tenet](https://github.com/Hirannad/tenet) | 1 |
+| 245 | think-before-you-build | 0 | [Jjohnston70/think-before-you-build](https://github.com/Jjohnston70/think-before-you-build) | 1 |
+| 246 | token-shield | 0 | [khalilmaaouni/token-shield](https://github.com/khalilmaaouni/token-shield) | 1 |
+| 247 | ui-consistency | 0 | [kamenkurtev/ui-consistency](https://github.com/kamenkurtev/ui-consistency) | 1 |
+| 248 | ux-superpowers | 0 | [adnanmir123/ux-superpowers](https://github.com/adnanmir123/ux-superpowers) | 1 |
+| 249 | vellum | 0 | [applesnort/vellum](https://github.com/applesnort/vellum) | 1 |
+| 250 | whats-new | 0 | [iskysun96/whats-new](https://github.com/iskysun96/whats-new) | 1 |
+| 251 | writing-process | 0 | [natejungtechcomm/writing-process](https://github.com/natejungtechcomm/writing-process) | 1 |
+| 252 | zizi-skills | 0 | [ziazon/zizi-skills](https://github.com/ziazon/zizi-skills) | 1 |
+| 253 | storefront-theme-kit | n/a | [mattiadragone/storefront-theme-kit](https://github.com/mattiadragone/storefront-theme-kit) | 1 |
+| 254 | your-rules-file | n/a | not found |  |
+
+## Higher-starred alternatives by category
+
+Alternative star counts were checked through ungh.cc on 2026-10-14. "Beats" compares each alternative with the most-starred installed plugin in the category that has its own repo. Plugins that share a repo with other installed plugins are listed but left out of that comparison, because their stars belong to the whole repo.
+
+### Memory / session continuity
+
+Installed: remember 199, cowork-mem 9 (shared repo), adaptive-agent 5, agent-memory 4, wherewasi 2, active-memory 0, create-state 0, baton 0
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 100,388 | yes | 2026-10-13 | Records sessions, compresses them with AI, re-injects context in later sessions | Probably upstream of installed cowork-mem (same skill names: mem-search, make-plan, smart-explore) |
+| [mem0ai/mem0](https://github.com/mem0ai/mem0) | 67,135 | yes | 2026-10-12 | Memory layer for AI agents and apps, self-hosted or hosted |  |
+| [getzep/graphiti](https://github.com/getzep/graphiti) | 31,730 | yes | 2026-10-14 | Builds real-time temporal knowledge graphs as agent memory |  |
+| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 31,205 | yes | 2026-10-14 | Memory and context engine plus API, can run fully local | basicmachines-co/basic-memory (4,165, pushed 2026-10-12) is the Markdown-notes option |
+
+### Status line / usage meter
+
+Installed: statusbar 11, crystools-statusline 6, claude-pulse 2, claudemeter 0, rich-statusline 0, cc-token-statusline 0, governor 0
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 28,506 | yes | 2026-10-13 | Plugin HUD: context usage, active tools, running agents, todo progress |  |
+| [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) | 13,283 | yes | 2026-10-13 | Customizable status line with powerline themes and usage widgets |  |
+| [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar) | 1,535 | yes | 2026-10-13 | macOS menu bar app tracking Claude, Codex and Gemini usage quotas | Menu bar meter, not a status line |
+| [Owloops/claude-powerline](https://github.com/Owloops/claude-powerline) | 1,174 | yes | 2026-10-11 | Vim-style powerline status line for Claude Code | Haleclipse/CCometixLine (3,472) excluded: last push 2026-03-14 |
+
+### Token and cost tracking
+
+Installed: ai-adoption 134 (shared repo), token-inspector 4, claude-performance 3, token-usage 2, token-shield 0
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 83,270 | yes | 2026-10-13 | CLI proxy that cuts tokens 60-90% on common dev command output | Cuts tokens rather than tracking them; same job as token-shield |
+| [ccusage/ccusage](https://github.com/ccusage/ccusage) | 18,993 | yes | 2026-10-13 | Reports Claude Code token use and cost from local logs (npx ccusage) | Moved from ryoppippi/ccusage |
+| [getagentseal/codeburn](https://github.com/getagentseal/codeburn) | 11,439 | yes | 2026-10-13 | Local token and cost tracker across 37 coding tools by model and project |  |
+| [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) | 8,742 | yes | 2026-07-05 | Real-time terminal usage monitor with burn-rate predictions |  |
+
+### Short replies / output style
+
+Installed: terse 51, 6x6 7, promptup 1, parrot 0, caveman 0 (shared repo)
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 111,399 | yes | 2026-10-13 | Caveman-speak skill and proxy, claims about 65% fewer tokens | Original caveman project. The installed caveman plugin comes from petrovicistefan/claude-code-plugins (0 stars) |
+| [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) | 6,087 | yes | 2026-06-16 | One CLAUDE.md that keeps replies terse and cuts output verbosity | Top non-installed option; hesreallyhim output-styles list (86 stars, pushed 2025-11-21) dropped |
+
+### Dev workflow skill libraries
+
+Installed: superpowers 298,822, mattpocock-skills 290,195, feature-dev 150,711 (shared repo), fable-baton 27, agent-protocols 1, wur 1, ship 1, zizi-skills 0, pm 0, agent-handoff 0
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 278,794 | no | 2026-10-12 | Skills, instincts, memory and security harness for Claude Code and others | Renamed from everything-claude-code. Installed superpowers = obra/superpowers (298,822) |
+| [anthropics/skills](https://github.com/anthropics/skills) | 180,997 | no | 2026-10-09 | Anthropic public Agent Skills repo: document, design and dev skills |  |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | 136,344 | no | 2026-10-14 | 23 opinionated role skills: CEO, designer, eng manager, release, QA |  |
+| [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | 64,300 | no | 2026-05-31 | Meta-prompting, context engineering and spec-driven dev system | addyosmani/agent-skills (106,368) ships the same skills as installed agent-protocols |
+
+### Spec-driven development and planning
+
+Installed: wave-planner 1, wur 1, agile-product 0 (shared repo)
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [github/spec-kit](https://github.com/github/spec-kit) | 141,192 | yes | 2026-10-13 | GitHub spec-driven development toolkit: specify, plan, tasks, implement |  |
+| [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 71,883 | yes | 2026-10-13 | Spec-driven development for AI coding assistants |  |
+| [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) | 54,114 | yes | 2026-10-14 | Agile AI-driven development with analyst, PM and architect agents | Closest match to installed agile-product |
+| [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) | 28,222 | yes | 2026-04-28 | AI task manager that turns a PRD into dependency-ordered tasks | Last push 2026-04-28, 14 days inside the window |
+
+### Multi-agent councils / debate
+
+Installed: thinking-partner 210, plan-review 13, decision-council 0, 16-minds 0, agentic-council 0, council 0
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 159,962 | yes | 2026-10-13 | Roster of specialist persona agents usable as council members | Persona library; no built-in debate round |
+| [karpathy/llm-council](https://github.com/karpathy/llm-council) | 25,449 | yes | 2025-11-22 | Models answer, rank each other anonymously, a chairman synthesizes | Stale (last push 2025-11-22); kept as category leader |
+| [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | 9,409 | yes | 2026-10-14 | Visual annotation and review of agent plans and code diffs | Same job as plan-review. BeehiveInnovations/pal-mcp-server (11,781) excluded: last push 2025-12-15 |
+
+### Autonomous loops
+
+Installed: ralph-loop 37,901 (shared repo), autoresearch 22, autoresearch-ai-plugin 13, goodnight-alchemist 1
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | 97,883 | yes | 2026-03-26 | Agents run nanochat training experiments autonomously on one GPU | Stale (last push 2026-03-26); kept as category leader |
+| [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) | 9,679 | yes | 2026-10-10 | Ralph autonomous dev loop for Claude Code with exit detection | snarktank/ralph (21,950) excluded: last push 2026-02-02 |
+| [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) | 6,575 | yes | 2026-08-12 | Autoresearch loop for Claude Code: modify, verify, keep or discard |  |
+| [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) | 3,174 | yes | 2026-10-13 | Ralph Wiggum loop orchestrator for autonomous agents |  |
+
+### Code and security review
+
+Installed: code-review 150,711 (shared repo), pr-review-toolkit 150,711 (shared repo), security-guidance 37,901 (shared repo), agentkeeper 2, llm-secure-patterns 1
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | 13,381 | yes | 2026-10-11 | Open-source AI PR reviewer with review, describe and improve commands | Moved from qodo-ai/pr-agent |
+| [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) | 9,502 | yes | 2026-10-14 | GitHub Action that runs Claude Code on PRs and issues, incl. review |  |
+| [trailofbits/skills](https://github.com/trailofbits/skills) | 7,521 | yes | 2026-10-13 | Trail of Bits skills for security research and audit workflows |  |
+| [kodustech/kodus-ai](https://github.com/kodustech/kodus-ai) | 1,475 | yes | 2026-10-14 | Self-hosted AI code review, bring your own LLM | anthropics/claude-code-security-review (6,373) excluded: last push 2026-02-11 |
+
+### Frontend design / UI
+
+Installed: frontend-design 150,711 (shared repo), design 29,587 (shared repo), 21st 6,002, superdesign 676, inhabited-design 5, design-drift 1, ui-consistency 0, vellum 0
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 135,624 | yes | 2026-10-12 | Design-intelligence skill for professional UI/UX across platforms |  |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 120,765 | yes | 2026-10-12 | DESIGN.md files from brand design systems for agents to match |  |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 95,150 | yes | 2026-10-12 | Skill that steers agents away from generic UI output |  |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 80,923 | yes | 2026-10-13 | Design language and commands that improve agent design output | 21st-dev/magic-mcp (6,002) is the MCP behind installed 21st |
+
+### Browser automation and web scraping
+
+Installed: browser-use 117,896, playwright 38,117, tavily 488, brightdata-plugin 265, firecrawl 123, tinyfish 20
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 85,492 | no | 2026-10-14 | Open-source crawler that turns websites into LLM-ready Markdown | Installed browser-use repo has more stars (117,896). Installed firecrawl plugin comes from firecrawl/skills (123); the firecrawl engine repo has 191,323 |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 53,447 | no | 2026-10-13 | Chrome DevTools MCP for agents: debug, trace and inspect live pages |  |
+| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 43,940 | no | 2026-10-14 | Browser automation CLI for AI agents | Installed playwright = microsoft/playwright-mcp (38,117) |
+
+### Notes / Obsidian
+
+Installed: obsidian 49,510, obsidian-notes 0, obsidian-sync 0, alexandria 0
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | 37,679 | no | 2026-08-02 | Self-hostable AI second brain with an Obsidian plugin | Installed obsidian = kepano/obsidian-skills (49,510) |
+| [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 15,494 | no | 2026-09-10 | Claude Code plus Obsidian second brain on the LLM Wiki pattern |  |
+| [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) | 4,476 | no | 2026-08-31 | MCP server for Obsidian via the Local REST API plugin |  |
+| [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) | 3,023 | no | 2026-10-11 | Obsidian plugin exposing a REST API and MCP server for the vault |  |
+
+### CLAUDE.md and config management
+
+Installed: claude-md-management 37,901 (shared repo), please-optimize-my-claude 16, claude-md-composer 9 (shared repo), task-observer 0 (shared repo), meta-dev 0
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 219,584 | yes | 2026-04-20 | One CLAUDE.md of Karpathy-derived rules against LLM coding pitfalls | Moved from forrestchang. Last push 2026-04-20, 6 days inside the window |
+| [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | 24,907 | yes | 2026-09-10 | AGENTS.md open format for guiding coding agents | Moved from openai/agents.md |
+| [intellectronica/ruler](https://github.com/intellectronica/ruler) | 2,945 | yes | 2026-09-30 | Pushes one rules source into CLAUDE.md, AGENTS.md and other agent configs |  |
+| [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) | 2,544 | yes | 2026-10-14 | Edits Claude Code system prompts, toolsets and themes | dyoshikawa/rulesync (1,514) is the next rules-sync CLI |
+
+### Hooks and safety guards
+
+Installed: hookify 150,711 (shared repo), agentkeeper 2
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime) | 5,527 | yes | 2026-10-13 | OS-level filesystem and network sandbox for agent processes | Moved from anthropic-experimental/sandbox-runtime |
+| [dagger/container-use](https://github.com/dagger/container-use) | 4,069 | yes | 2026-09-21 | Isolated container dev environments per coding agent |  |
+| [nizos/tdd-guard](https://github.com/nizos/tdd-guard) | 2,360 | yes | 2026-10-12 | Hook that blocks Claude Code edits that skip failing tests |  |
+| [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) | 1,620 | yes | 2026-10-14 | Pre-execution guard that blocks destructive git and file commands | Moved from claude-code-safety-net; check overlap with installed the-safety-net. disler/claude-code-hooks-mastery (3,940) excluded: last push 2026-03-04 |
+
+### Delegating to other models
+
+Installed: codex 34,189, opencode 1, opencode-subagent-mcp 0
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 213,137 | yes | 2026-10-13 | Open-source terminal coding agent with many model providers | CLI behind the installed opencode plugins, which come from TheRealDinghyDog/opencode-plugin-cc (1) and sebstaq/opencode-subagent-mcp (0) |
+| [openai/codex](https://github.com/openai/codex) | 129,091 | yes | 2026-10-14 | OpenAI terminal coding agent | CLI behind the installed codex plugin (openai/codex-plugin-cc, 34,189) |
+| [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 107,337 | yes | 2026-10-14 | Google open-source Gemini agent for the terminal | Not installed. pal-mcp-server (11,781) excluded: last push 2025-12-15 |
+
+### Notifications
+
+Installed: notify 0, claude-notify 0
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) | 34,805 | yes | 2026-10-13 | Push notifications to phone or desktop over HTTP PUT/POST | Generic service; call it from a Stop or Notification hook |
+| [slopus/happy](https://github.com/slopus/happy) | 24,133 | yes | 2026-10-14 | Mobile and desktop app to run Claude, Codex and Grok sessions remotely | Remote client with alerts; broader than notify |
+| [777genius/agent-notifications](https://github.com/777genius/agent-notifications) | 816 | yes | 2026-10-14 | Desktop alerts, sounds, click-to-focus and webhooks for coding agents | Moved from claude-notifications-go |
+| [mylee04/code-notify](https://github.com/mylee04/code-notify) | 288 | yes | 2026-09-04 | Desktop notifications for Claude Code, Codex and Gemini CLI |  |
+
+### Terminal and desktop control
+
+Installed: desktop-commander 10,027
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 39,263 | yes | 2026-10-09 | Multimodal GUI agent stack for desktop and browser control | Installed desktop-commander = wonderwhy-er/DesktopCommanderMCP (10,027) |
+| [trycua/cua](https://github.com/trycua/cua) | 29,621 | yes | 2026-10-13 | Computer-use drivers and sandboxes for macOS, Windows and Linux |  |
+| [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) | 8,928 | no | 2026-10-14 | MCP server for computer use on Windows |  |
+
+### Plugin and skill discovery
+
+Installed: skill-discovery 14, plugin-pilot 0, sth 0
+
+| Alternative | Stars | Beats | Last push | What it does | Note |
+|---|---:|---|---|---|---|
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 77,001 | yes | 2026-09-18 | Curated list of Claude skills, resources and tools |  |
+| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 55,643 | yes | 2026-10-14 | Curated Claude Code skills, agents, hooks, status lines and plugins |  |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 37,901 | yes | 2026-10-14 | Anthropic-managed directory of Claude Code plugins |  |
+| [vercel-labs/skills](https://github.com/vercel-labs/skills) | 34,738 | yes | 2026-10-09 | npx skills CLI to find, install and manage agent skills | VoltAgent/awesome-agent-skills (35,631) is a similar list |
+
