@@ -1,0 +1,37 @@
+{
+  "owner": "ogmachine",
+  "repo_list": [
+    "brandable-slides-studio",
+    "design-system-starter-kit",
+    "soundwave-showcase",
+    "zd_portfolio",
+    "remix-of-lovable-slides",
+    "kizuna-dance",
+    "skill-sequence-manager",
+    "probable-doodle",
+    "360-stack-curator",
+    "operating-studio"
+  ],
+  "strategic_repos": [
+    "360-stack-curator",
+    "brandable-slides-studio",
+    "operating-studio",
+    "design-system-starter-kit"
+  ],
+  "showcase_repos": [
+    "zd_portfolio",
+    "soundwave-showcase",
+    "kizuna-dance"
+  ],
+  "prototype_repos": [
+    "skill-sequence-manager",
+    "remix-of-lovable-slides",
+    "probable-doodle"
+  ],
+  "thresholds": {
+    "strategic": 10,
+    "showcase": 6,
+    "sandbox": 3,
+    "archive": 2
+  }
+}
