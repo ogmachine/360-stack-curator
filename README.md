@@ -10,11 +10,21 @@ This project is designed to help you:
 - see overlaps, gaps, and duplication across your stack
 - design a universal vs. conditional architecture for routing, discoverability, and best-fit tooling
 
+## Portfolio governance and operating model
+
+This repo now includes the working portfolio governance package for the wider repo set:
+
+- [docs/repo-catalog.md](docs/repo-catalog.md) — repo classification, ownership, and lifecycle status
+- [docs/repository-standards.md](docs/repository-standards.md) — baseline repo hygiene and setup rules
+- [docs/agent-operating-manual.md](docs/agent-operating-manual.md) — cross-agent handling, safeguards, and handoff flow
+- [docs/roadmap-governance.md](docs/roadmap-governance.md) — roadmap structure, review cadence, and maintenance process
+
 ## What this project contains
 
 - `schema/` — JSON schema for repos, capabilities, and agents
 - `data/` — starter taxonomy and agent compatibility data
 - `scripts/` — ingestion and build scripts
+- `docs/` — portfolio governance, standards, operating runbooks, roadmap controls
 - `README.md` — project overview and usage notes
 
 ## Quick start
@@ -49,6 +59,11 @@ The project uses three core objects:
 ```text
 360-stack-curator/
 ├── README.md
+├── docs/
+│   ├── repo-catalog.md
+│   ├── repository-standards.md
+│   ├── agent-operating-manual.md
+│   └── roadmap-governance.md
 ├── schema/
 │   ├── repo.schema.json
 │   ├── capability.schema.json
@@ -87,3 +102,8 @@ Use the generated JSON as the single source of truth, then render it into a tabl
 - map each repo to capabilities and domains
 - show what is universal vs agent-specific vs conditional
 - suggest a practical architecture for routing, discoverability, and tool fit
+- provide an operational model for repo governance, cross-agent work, and roadmap management
+
+## Portfolio governance note
+
+This repo serves as the portfolio control plane for the broader GitHub footprint. The goal is to classify repos by role, assign accountability, document repo standards, and keep roadmap work tied to actual issues, owners, and validation evidence.
