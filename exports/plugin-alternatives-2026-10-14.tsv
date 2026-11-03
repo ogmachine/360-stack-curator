@@ -1,0 +1,67 @@
+category	repo	stars	pushed_at	what_it_does	note
+Memory / session continuity	thedotmack/claude-mem	100388	2026-10-13	Records sessions, compresses them with AI, re-injects context in later sessions	Probably upstream of installed cowork-mem (same skill names: mem-search, make-plan, smart-explore)
+Memory / session continuity	mem0ai/mem0	67135	2026-10-12	Memory layer for AI agents and apps, self-hosted or hosted	
+Memory / session continuity	getzep/graphiti	31730	2026-10-14	Builds real-time temporal knowledge graphs as agent memory	
+Memory / session continuity	supermemoryai/supermemory	31205	2026-10-14	Memory and context engine plus API, can run fully local	basicmachines-co/basic-memory (4,165, pushed 2026-10-12) is the Markdown-notes option
+Status line / usage meter	jarrodwatts/claude-hud	28506	2026-10-13	Plugin HUD: context usage, active tools, running agents, todo progress	
+Status line / usage meter	sirmalloc/ccstatusline	13283	2026-10-13	Customizable status line with powerline themes and usage widgets	
+Status line / usage meter	tddworks/ClaudeBar	1535	2026-10-13	macOS menu bar app tracking Claude, Codex and Gemini usage quotas	Menu bar meter, not a status line
+Status line / usage meter	Owloops/claude-powerline	1174	2026-10-11	Vim-style powerline status line for Claude Code	Haleclipse/CCometixLine (3,472) excluded: last push 2026-03-14
+Token and cost tracking	rtk-ai/rtk	83270	2026-10-13	CLI proxy that cuts tokens 60-90% on common dev command output	Cuts tokens rather than tracking them; same job as token-shield
+Token and cost tracking	ccusage/ccusage	18993	2026-10-13	Reports Claude Code token use and cost from local logs (npx ccusage)	Moved from ryoppippi/ccusage
+Token and cost tracking	getagentseal/codeburn	11439	2026-10-13	Local token and cost tracker across 37 coding tools by model and project	
+Token and cost tracking	Maciek-roboblog/Claude-Code-Usage-Monitor	8742	2026-07-05	Real-time terminal usage monitor with burn-rate predictions	
+Short replies / output style	JuliusBrussee/caveman	111399	2026-10-13	Caveman-speak skill and proxy, claims about 65% fewer tokens	Original caveman project. The installed caveman plugin comes from petrovicistefan/claude-code-plugins (0 stars)
+Short replies / output style	drona23/claude-token-efficient	6087	2026-06-16	One CLAUDE.md that keeps replies terse and cuts output verbosity	Top non-installed option; hesreallyhim output-styles list (86 stars, pushed 2025-11-21) dropped
+Dev workflow skill libraries	affaan-m/ECC	278794	2026-10-12	Skills, instincts, memory and security harness for Claude Code and others	Renamed from everything-claude-code. Installed superpowers = obra/superpowers (298,822)
+Dev workflow skill libraries	anthropics/skills	180997	2026-10-09	Anthropic public Agent Skills repo: document, design and dev skills	
+Dev workflow skill libraries	garrytan/gstack	136344	2026-10-14	23 opinionated role skills: CEO, designer, eng manager, release, QA	
+Dev workflow skill libraries	gsd-build/get-shit-done	64300	2026-05-31	Meta-prompting, context engineering and spec-driven dev system	addyosmani/agent-skills (106,368) ships the same skills as installed agent-protocols
+Spec-driven development and planning	github/spec-kit	141192	2026-10-13	GitHub spec-driven development toolkit: specify, plan, tasks, implement	
+Spec-driven development and planning	Fission-AI/OpenSpec	71883	2026-10-13	Spec-driven development for AI coding assistants	
+Spec-driven development and planning	bmad-code-org/BMAD-METHOD	54114	2026-10-14	Agile AI-driven development with analyst, PM and architect agents	Closest match to installed agile-product
+Spec-driven development and planning	eyaltoledano/claude-task-master	28222	2026-04-28	AI task manager that turns a PRD into dependency-ordered tasks	Last push 2026-04-28, 14 days inside the window
+Multi-agent councils / debate	msitarzewski/agency-agents	159962	2026-10-13	Roster of specialist persona agents usable as council members	Persona library; no built-in debate round
+Multi-agent councils / debate	karpathy/llm-council	25449	2025-11-22	Models answer, rank each other anonymously, a chairman synthesizes	Stale (last push 2025-11-22); kept as category leader
+Multi-agent councils / debate	backnotprop/plannotator	9409	2026-10-14	Visual annotation and review of agent plans and code diffs	Same job as plan-review. BeehiveInnovations/pal-mcp-server (11,781) excluded: last push 2025-12-15
+Autonomous loops	karpathy/autoresearch	97883	2026-03-26	Agents run nanochat training experiments autonomously on one GPU	Stale (last push 2026-03-26); kept as category leader
+Autonomous loops	frankbria/ralph-claude-code	9679	2026-10-10	Ralph autonomous dev loop for Claude Code with exit detection	snarktank/ralph (21,950) excluded: last push 2026-02-02
+Autonomous loops	uditgoenka/autoresearch	6575	2026-08-12	Autoresearch loop for Claude Code: modify, verify, keep or discard	
+Autonomous loops	mikeyobrien/ralph-orchestrator	3174	2026-10-13	Ralph Wiggum loop orchestrator for autonomous agents	
+Code and security review	The-PR-Agent/pr-agent	13381	2026-10-11	Open-source AI PR reviewer with review, describe and improve commands	Moved from qodo-ai/pr-agent
+Code and security review	anthropics/claude-code-action	9502	2026-10-14	GitHub Action that runs Claude Code on PRs and issues, incl. review	
+Code and security review	trailofbits/skills	7521	2026-10-13	Trail of Bits skills for security research and audit workflows	
+Code and security review	kodustech/kodus-ai	1475	2026-10-14	Self-hosted AI code review, bring your own LLM	anthropics/claude-code-security-review (6,373) excluded: last push 2026-02-11
+Frontend design / UI	nextlevelbuilder/ui-ux-pro-max-skill	135624	2026-10-12	Design-intelligence skill for professional UI/UX across platforms	
+Frontend design / UI	VoltAgent/awesome-design-md	120765	2026-10-12	DESIGN.md files from brand design systems for agents to match	
+Frontend design / UI	Leonxlnx/taste-skill	95150	2026-10-12	Skill that steers agents away from generic UI output	
+Frontend design / UI	pbakaus/impeccable	80923	2026-10-13	Design language and commands that improve agent design output	21st-dev/magic-mcp (6,002) is the MCP behind installed 21st
+Browser automation and web scraping	unclecode/crawl4ai	85492	2026-10-14	Open-source crawler that turns websites into LLM-ready Markdown	Installed browser-use repo has more stars (117,896). Installed firecrawl plugin comes from firecrawl/skills (123); the firecrawl engine repo has 191,323
+Browser automation and web scraping	ChromeDevTools/chrome-devtools-mcp	53447	2026-10-13	Chrome DevTools MCP for agents: debug, trace and inspect live pages	
+Browser automation and web scraping	vercel-labs/agent-browser	43940	2026-10-14	Browser automation CLI for AI agents	Installed playwright = microsoft/playwright-mcp (38,117)
+Notes / Obsidian	khoj-ai/khoj	37679	2026-08-02	Self-hostable AI second brain with an Obsidian plugin	Installed obsidian = kepano/obsidian-skills (49,510)
+Notes / Obsidian	AgriciDaniel/claude-obsidian	15494	2026-09-10	Claude Code plus Obsidian second brain on the LLM Wiki pattern	
+Notes / Obsidian	MarkusPfundstein/mcp-obsidian	4476	2026-08-31	MCP server for Obsidian via the Local REST API plugin	
+Notes / Obsidian	coddingtonbear/obsidian-local-rest-api	3023	2026-10-11	Obsidian plugin exposing a REST API and MCP server for the vault	
+CLAUDE.md and config management	multica-ai/andrej-karpathy-skills	219584	2026-04-20	One CLAUDE.md of Karpathy-derived rules against LLM coding pitfalls	Moved from forrestchang. Last push 2026-04-20, 6 days inside the window
+CLAUDE.md and config management	agentsmd/agents.md	24907	2026-09-10	AGENTS.md open format for guiding coding agents	Moved from openai/agents.md
+CLAUDE.md and config management	intellectronica/ruler	2945	2026-09-30	Pushes one rules source into CLAUDE.md, AGENTS.md and other agent configs	
+CLAUDE.md and config management	Piebald-AI/tweakcc	2544	2026-10-14	Edits Claude Code system prompts, toolsets and themes	dyoshikawa/rulesync (1,514) is the next rules-sync CLI
+Hooks and safety guards	anthropics/sandbox-runtime	5527	2026-10-13	OS-level filesystem and network sandbox for agent processes	Moved from anthropic-experimental/sandbox-runtime
+Hooks and safety guards	dagger/container-use	4069	2026-09-21	Isolated container dev environments per coding agent	
+Hooks and safety guards	nizos/tdd-guard	2360	2026-10-12	Hook that blocks Claude Code edits that skip failing tests	
+Hooks and safety guards	kenryu42/cc-safety-net	1620	2026-10-14	Pre-execution guard that blocks destructive git and file commands	Moved from claude-code-safety-net; check overlap with installed the-safety-net. disler/claude-code-hooks-mastery (3,940) excluded: last push 2026-03-04
+Delegating to other models	anomalyco/opencode	213137	2026-10-13	Open-source terminal coding agent with many model providers	CLI behind the installed opencode plugins, which come from TheRealDinghyDog/opencode-plugin-cc (1) and sebstaq/opencode-subagent-mcp (0)
+Delegating to other models	openai/codex	129091	2026-10-14	OpenAI terminal coding agent	CLI behind the installed codex plugin (openai/codex-plugin-cc, 34,189)
+Delegating to other models	google-gemini/gemini-cli	107337	2026-10-14	Google open-source Gemini agent for the terminal	Not installed. pal-mcp-server (11,781) excluded: last push 2025-12-15
+Notifications	binwiederhier/ntfy	34805	2026-10-13	Push notifications to phone or desktop over HTTP PUT/POST	Generic service; call it from a Stop or Notification hook
+Notifications	slopus/happy	24133	2026-10-14	Mobile and desktop app to run Claude, Codex and Grok sessions remotely	Remote client with alerts; broader than notify
+Notifications	777genius/agent-notifications	816	2026-10-14	Desktop alerts, sounds, click-to-focus and webhooks for coding agents	Moved from claude-notifications-go
+Notifications	mylee04/code-notify	288	2026-09-04	Desktop notifications for Claude Code, Codex and Gemini CLI	
+Terminal and desktop control	bytedance/UI-TARS-desktop	39263	2026-10-09	Multimodal GUI agent stack for desktop and browser control	Installed desktop-commander = wonderwhy-er/DesktopCommanderMCP (10,027)
+Terminal and desktop control	trycua/cua	29621	2026-10-13	Computer-use drivers and sandboxes for macOS, Windows and Linux	
+Terminal and desktop control	CursorTouch/Windows-MCP	8928	2026-10-14	MCP server for computer use on Windows	
+Plugin and skill discovery	ComposioHQ/awesome-claude-skills	77001	2026-09-18	Curated list of Claude skills, resources and tools	
+Plugin and skill discovery	hesreallyhim/awesome-claude-code	55643	2026-10-14	Curated Claude Code skills, agents, hooks, status lines and plugins	
+Plugin and skill discovery	anthropics/claude-plugins-official	37901	2026-10-14	Anthropic-managed directory of Claude Code plugins	
+Plugin and skill discovery	vercel-labs/skills	34738	2026-10-09	npx skills CLI to find, install and manage agent skills	VoltAgent/awesome-agent-skills (35,631) is a similar list
